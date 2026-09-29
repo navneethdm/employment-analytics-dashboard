@@ -1,1 +1,8 @@
-
+__pycache__/
+*.pyc
+.venv/
+venv/
+employment.db
+data/*.csv
+!data/README.md
+.DS_Store
