@@ -1,8 +1,3 @@
-"""Member 2 page: Job Market (data/jobs.csv).
-
-The page only handles what the user sees. All reading, writing and validation is done by
-JobsManager (utils/jobs_manager.py).
-"""
 import plotly.express as px
 import streamlit as st
 
