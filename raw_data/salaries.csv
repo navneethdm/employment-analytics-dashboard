@@ -1,0 +1,1785 @@
+record_id,age,gender,education,job_title,experience_years,salary,experience_band
+2,28,Female,Master's,Data Analyst,3,65000.0,3-5 yrs
+3,45,Male,PhD,Senior Manager,15,150000.0,11-20 yrs
+4,36,Female,Bachelor's,Sales Associate,7,60000.0,6-10 yrs
+5,52,Male,Master's,Director,20,200000.0,11-20 yrs
+6,29,Male,Bachelor's,Marketing Analyst,2,55000.0,0-2 yrs
+7,42,Female,Master's,Product Manager,12,120000.0,11-20 yrs
+8,31,Male,Bachelor's,Sales Manager,4,80000.0,3-5 yrs
+9,26,Female,Bachelor's,Marketing Coordinator,1,45000.0,0-2 yrs
+10,38,Male,PhD,Senior Scientist,10,110000.0,6-10 yrs
+11,29,Male,Master's,Software Developer,3,75000.0,3-5 yrs
+12,48,Female,Bachelor's,HR Manager,18,140000.0,11-20 yrs
+13,35,Male,Bachelor's,Financial Analyst,6,65000.0,6-10 yrs
+14,40,Female,Master's,Project Manager,14,130000.0,11-20 yrs
+15,27,Male,Bachelor's,Customer Service Rep,2,40000.0,0-2 yrs
+16,44,Male,Bachelor's,Operations Manager,16,125000.0,11-20 yrs
+17,33,Female,Master's,Marketing Manager,7,90000.0,6-10 yrs
+18,39,Male,PhD,Senior Engineer,12,115000.0,11-20 yrs
+19,25,Female,Bachelor's,Data Entry Clerk,0,35000.0,0-2 yrs
+20,51,Male,Bachelor's,Sales Director,22,180000.0,20+ yrs
+21,34,Female,Master's,Business Analyst,5,80000.0,3-5 yrs
+22,47,Male,Master's,VP of Operations,19,190000.0,11-20 yrs
+23,30,Male,Bachelor's,IT Support,2,50000.0,0-2 yrs
+24,36,Female,Bachelor's,Recruiter,9,60000.0,6-10 yrs
+25,41,Male,Master's,Financial Manager,13,140000.0,11-20 yrs
+26,28,Female,Bachelor's,Social Media Specialist,3,45000.0,3-5 yrs
+27,37,Female,Master's,Software Manager,11,110000.0,11-20 yrs
+28,24,Male,Bachelor's,Junior Developer,1,40000.0,0-2 yrs
+29,43,Female,PhD,Senior Consultant,15,140000.0,11-20 yrs
+30,33,Male,Master's,Product Designer,6,90000.0,6-10 yrs
+31,50,Male,Bachelor's,CEO,25,250000.0,20+ yrs
+32,31,Female,Bachelor's,Accountant,4,55000.0,3-5 yrs
+33,29,Male,Master's,Data Scientist,3,75000.0,3-5 yrs
+34,39,Female,Bachelor's,Marketing Specialist,10,65000.0,6-10 yrs
+35,46,Male,PhD,Senior Manager,20,170000.0,11-20 yrs
+36,27,Male,Bachelor's,Technical Writer,2,45000.0,0-2 yrs
+37,35,Female,Bachelor's,HR Generalist,7,60000.0,6-10 yrs
+38,42,Male,Master's,Project Engineer,14,115000.0,11-20 yrs
+39,26,Female,Bachelor's,Customer Success Rep,1,40000.0,0-2 yrs
+40,49,Male,Bachelor's,Sales Executive,21,160000.0,20+ yrs
+41,34,Female,Master's,UX Designer,5,80000.0,3-5 yrs
+42,48,Male,Master's,Operations Director,18,190000.0,11-20 yrs
+43,30,Male,Bachelor's,Network Engineer,3,60000.0,3-5 yrs
+44,36,Female,Bachelor's,Administrative Assistant,8,45000.0,6-10 yrs
+45,41,Male,Master's,Strategy Consultant,13,130000.0,11-20 yrs
+46,28,Female,Bachelor's,Copywriter,2,40000.0,0-2 yrs
+47,32,Male,Bachelor's,Account Manager,5,75000.0,3-5 yrs
+48,45,Female,Master's,Director of Marketing,16,180000.0,11-20 yrs
+49,38,Male,PhD,Senior Scientist,11,120000.0,11-20 yrs
+50,25,Male,Bachelor's,Help Desk Analyst,0,35000.0,0-2 yrs
+51,51,Female,Bachelor's,Customer Service Manager,22,130000.0,20+ yrs
+52,33,Male,Master's,Business Intelligence Analyst,7,85000.0,6-10 yrs
+53,40,Female,Bachelor's,Event Coordinator,12,60000.0,11-20 yrs
+54,47,Male,Master's,VP of Finance,19,200000.0,11-20 yrs
+55,29,Female,Bachelor's,Graphic Designer,3,50000.0,3-5 yrs
+56,36,Male,Bachelor's,Sales Manager,9,95000.0,6-10 yrs
+57,27,Female,Master's,UX Researcher,2,65000.0,0-2 yrs
+58,43,Male,PhD,Senior Engineer,17,140000.0,11-20 yrs
+59,30,Female,Bachelor's,Social Media Manager,4,55000.0,3-5 yrs
+60,35,Male,Master's,Product Manager,7,105000.0,6-10 yrs
+61,51,Female,Master's,Director of Operations,23,170000.0,20+ yrs
+62,29,Male,Bachelor's,Marketing Analyst,3,50000.0,3-5 yrs
+63,40,Female,Bachelor's,HR Manager,12,80000.0,11-20 yrs
+64,47,Male,PhD,Senior Data Scientist,21,180000.0,20+ yrs
+65,26,Male,Bachelor's,Junior Accountant,1,35000.0,0-2 yrs
+66,38,Female,Master's,Digital Marketing Manager,10,90000.0,6-10 yrs
+67,46,Male,Bachelor's,IT Manager,19,120000.0,11-20 yrs
+68,31,Female,Bachelor's,Customer Service Representative,5,45000.0,3-5 yrs
+69,34,Male,Master's,Business Development Manager,8,90000.0,6-10 yrs
+70,49,Female,Master's,Senior Financial Analyst,18,150000.0,11-20 yrs
+71,33,Male,Bachelor's,Web Developer,6,65000.0,6-10 yrs
+72,39,Female,Bachelor's,Recruiter,11,70000.0,11-20 yrs
+73,45,Male,PhD,Research Director,16,190000.0,11-20 yrs
+74,28,Male,Bachelor's,Technical Support Specialist,2,40000.0,0-2 yrs
+75,42,Female,Master's,Creative Director,14,120000.0,11-20 yrs
+76,37,Male,Bachelor's,Project Manager,10,95000.0,6-10 yrs
+77,50,Female,Bachelor's,Operations Manager,22,160000.0,20+ yrs
+78,32,Male,Master's,Senior Software Engineer,6,100000.0,6-10 yrs
+79,48,Female,Master's,Human Resources Director,20,180000.0,11-20 yrs
+80,30,Female,Bachelor's,Content Marketing Manager,3,55000.0,3-5 yrs
+81,36,Male,Bachelor's,Technical Recruiter,8,70000.0,6-10 yrs
+82,41,Female,Master's,Data Analyst,13,80000.0,11-20 yrs
+83,25,Male,Bachelor's,Sales Representative,0,30000.0,0-2 yrs
+84,52,Male,PhD,Chief Technology Officer,24,250000.0,20+ yrs
+85,29,Female,Bachelor's,Junior Designer,2,40000.0,0-2 yrs
+86,34,Female,Master's,Financial Advisor,10,95000.0,6-10 yrs
+87,27,Male,Bachelor's,Junior Account Manager,2,45000.0,0-2 yrs
+88,40,Female,Bachelor's,HR Generalist,15,80000.0,11-20 yrs
+89,46,Male,Master's,Senior Project Manager,21,135000.0,20+ yrs
+90,31,Female,Bachelor's,Marketing Coordinator,6,55000.0,6-10 yrs
+91,36,Male,PhD,Principal Scientist,11,120000.0,11-20 yrs
+92,29,Female,Bachelor's,Sales Associate,3,40000.0,3-5 yrs
+93,43,Male,Bachelor's,Supply Chain Manager,18,105000.0,11-20 yrs
+94,52,Female,Master's,Senior Marketing Manager,25,170000.0,20+ yrs
+95,33,Male,Bachelor's,Business Analyst,7,75000.0,6-10 yrs
+96,39,Female,Bachelor's,Training Specialist,12,65000.0,11-20 yrs
+97,47,Male,PhD,Research Scientist,22,160000.0,20+ yrs
+98,26,Male,Bachelor's,Junior Software Developer,1,35000.0,0-2 yrs
+99,38,Female,Master's,Public Relations Manager,10,90000.0,6-10 yrs
+100,45,Male,Bachelor's,Operations Analyst,20,110000.0,11-20 yrs
+101,31,Female,Bachelor's,Event Coordinator,5,45000.0,3-5 yrs
+102,35,Male,Master's,Product Marketing Manager,8,95000.0,6-10 yrs
+103,49,Female,Master's,Senior HR Manager,19,150000.0,11-20 yrs
+104,33,Male,Bachelor's,Junior Web Developer,5,50000.0,3-5 yrs
+105,39,Female,Master's,Senior Project Coordinator,13,80000.0,11-20 yrs
+106,44,Male,PhD,Chief Data Officer,16,220000.0,11-20 yrs
+107,30,Female,Bachelor's,Digital Content Producer,3,50000.0,3-5 yrs
+108,36,Male,Bachelor's,IT Support Specialist,7,60000.0,6-10 yrs
+109,41,Female,Master's,Senior Marketing Analyst,14,100000.0,11-20 yrs
+110,28,Male,Bachelor's,Customer Success Manager,2,40000.0,0-2 yrs
+111,42,Female,Master's,Senior Graphic Designer,15,110000.0,11-20 yrs
+112,37,Male,Bachelor's,Software Project Manager,9,95000.0,6-10 yrs
+113,50,Female,Bachelor's,Supply Chain Analyst,22,130000.0,20+ yrs
+114,32,Male,Master's,Senior Business Analyst,6,90000.0,6-10 yrs
+115,23,Female,Bachelor's,Junior Marketing Analyst,0,35000.0,0-2 yrs
+116,31,Male,Master's,Senior Financial Analyst,6,95000.0,6-10 yrs
+117,40,Female,Bachelor's,Office Manager,15,65000.0,11-20 yrs
+118,48,Male,PhD,Principal Engineer,20,170000.0,11-20 yrs
+119,29,Female,Bachelor's,Junior HR Generalist,3,45000.0,3-5 yrs
+120,35,Male,Master's,Senior Product Manager,10,120000.0,6-10 yrs
+121,42,Female,Bachelor's,Sales Manager,17,100000.0,11-20 yrs
+122,53,Male,Master's,Director of Marketing,25,180000.0,20+ yrs
+123,33,Female,Bachelor's,Junior Operations Analyst,5,50000.0,3-5 yrs
+124,38,Male,Bachelor's,Customer Service Manager,11,80000.0,11-20 yrs
+125,44,Female,PhD,Senior Scientist,16,140000.0,11-20 yrs
+126,26,Male,Bachelor's,Junior Accountant,2,40000.0,0-2 yrs
+127,37,Female,Master's,Senior HR Generalist,9,95000.0,6-10 yrs
+128,45,Male,Bachelor's,Sales Operations Manager,18,110000.0,11-20 yrs
+129,32,Female,Bachelor's,Marketing Coordinator,4,50000.0,3-5 yrs
+130,34,Male,Master's,Senior Software Developer,8,105000.0,6-10 yrs
+131,50,Female,Master's,Director of Operations,21,160000.0,20+ yrs
+132,29,Male,Bachelor's,Junior Web Designer,3,45000.0,3-5 yrs
+133,40,Female,Master's,Senior Training Specialist,12,100000.0,11-20 yrs
+134,47,Male,PhD,Senior Research Scientist,22,160000.0,20+ yrs
+135,27,Male,Bachelor's,Junior Sales Representative,1,35000.0,0-2 yrs
+136,39,Female,Bachelor's,Administrative Assistant,10,55000.0,6-10 yrs
+137,46,Male,Master's,Senior Project Manager,19,140000.0,11-20 yrs
+138,30,Female,Bachelor's,Junior Marketing Manager,4,50000.0,3-5 yrs
+139,36,Male,Bachelor's,Junior Data Analyst,7,60000.0,6-10 yrs
+140,43,Female,Master's,Senior Product Marketing Manager,14,120000.0,11-20 yrs
+141,28,Male,Bachelor's,Junior Business Analyst,2,40000.0,0-2 yrs
+142,41,Female,Master's,Senior Marketing Manager,13,110000.0,11-20 yrs
+143,33,Male,Bachelor's,Junior Software Developer,5,50000.0,3-5 yrs
+144,47,Male,Bachelor's,Senior Sales Manager,20,135000.0,11-20 yrs
+145,25,Female,Master's,Junior Marketing Specialist,1,40000.0,0-2 yrs
+146,34,Male,Bachelor's,Senior Business Analyst,8,90000.0,6-10 yrs
+147,42,Female,PhD,Senior Data Scientist,16,150000.0,11-20 yrs
+148,31,Male,Bachelor's,Junior Project Manager,4,60000.0,3-5 yrs
+149,38,Female,Bachelor's,Senior Accountant,10,80000.0,6-10 yrs
+150,45,Male,Master's,Director of Sales,19,175000.0,11-20 yrs
+151,29,Female,Bachelor's,Junior Recruiter,3,45000.0,3-5 yrs
+152,36,Male,Master's,Senior Business Development Manager,11,120000.0,11-20 yrs
+153,43,Female,PhD,Senior Product Designer,18,140000.0,11-20 yrs
+154,26,Male,Bachelor's,Junior Customer Support Specialist,2,35000.0,0-2 yrs
+155,37,Female,Master's,Senior Marketing Analyst,9,95000.0,6-10 yrs
+156,44,Male,Bachelor's,Senior IT Support Specialist,14,110000.0,11-20 yrs
+157,32,Female,Bachelor's,Junior Financial Analyst,5,50000.0,3-5 yrs
+158,33,Male,Master's,Senior Operations Manager,7,115000.0,6-10 yrs
+159,51,Female,PhD,Director of Human Resources,23,185000.0,20+ yrs
+160,28,Male,Bachelor's,Junior Software Engineer,2,40000.0,0-2 yrs
+161,39,Female,Bachelor's,Senior Sales Representative,12,90000.0,11-20 yrs
+162,48,Male,Master's,Director of Product Management,21,175000.0,20+ yrs
+163,30,Female,Bachelor's,Junior Copywriter,3,45000.0,3-5 yrs
+164,35,Male,Bachelor's,Senior Marketing Coordinator,7,80000.0,6-10 yrs
+165,41,Female,Master's,Senior Human Resources Manager,13,120000.0,11-20 yrs
+166,27,Male,Bachelor's,Junior Business Development Associate,1,35000.0,0-2 yrs
+167,40,Female,Bachelor's,Senior Account Manager,14,110000.0,11-20 yrs
+168,46,Male,PhD,Senior Researcher,18,150000.0,11-20 yrs
+169,31,Female,Bachelor's,Junior HR Coordinator,4,50000.0,3-5 yrs
+170,34,Male,Master's,Senior Software Engineer,9,105000.0,6-10 yrs
+171,50,Female,Master's,Director of Finance,20,180000.0,11-20 yrs
+172,29,Male,Bachelor's,Junior Marketing Coordinator,2,40000.0,0-2 yrs
+173,43,Male,Bachelor's,Senior Project Manager,16,140000.0,11-20 yrs
+174,26,Female,Master's,Junior Data Scientist,1,45000.0,0-2 yrs
+175,35,Male,Bachelor's,Senior Operations Analyst,7,85000.0,6-10 yrs
+176,42,Female,PhD,Senior Marketing Manager,18,140000.0,11-20 yrs
+177,31,Male,Bachelor's,Junior Accountant,4,50000.0,3-5 yrs
+178,38,Female,Bachelor's,Senior Human Resources Coordinator,10,80000.0,6-10 yrs
+179,46,Male,Master's,Director of Operations,20,170000.0,11-20 yrs
+180,29,Female,Bachelor's,Junior Sales Representative,2,40000.0,0-2 yrs
+181,37,Male,Master's,Senior Business Analyst,9,105000.0,6-10 yrs
+182,44,Female,PhD,Senior UX Designer,15,145000.0,11-20 yrs
+183,27,Male,Bachelor's,Junior Product Manager,2,40000.0,0-2 yrs
+184,36,Female,Bachelor's,Senior Marketing Specialist,8,85000.0,6-10 yrs
+185,43,Male,Bachelor's,Senior IT Project Manager,14,130000.0,11-20 yrs
+186,33,Female,Master's,Senior Financial Analyst,6,95000.0,6-10 yrs
+187,34,Male,Bachelor's,Senior Quality Assurance Analyst,9,100000.0,6-10 yrs
+188,50,Female,PhD,Director of Sales and Marketing,22,180000.0,20+ yrs
+189,28,Male,Bachelor's,Junior Operations Analyst,1,35000.0,0-2 yrs
+190,39,Female,Bachelor's,Senior Account Executive,12,95000.0,11-20 yrs
+191,47,Male,Master's,Director of Business Development,19,170000.0,11-20 yrs
+192,30,Female,Bachelor's,Junior Social Media Manager,3,45000.0,3-5 yrs
+193,34,Male,Bachelor's,Senior Product Manager,7,95000.0,6-10 yrs
+194,40,Female,Master's,Senior Human Resources Specialist,13,120000.0,11-20 yrs
+195,41,Female,Bachelor's,Senior Marketing Coordinator,11,90000.0,11-20 yrs
+196,45,Male,PhD,Senior Data Analyst,17,155000.0,11-20 yrs
+197,32,Female,Bachelor's,Junior Account Manager,5,55000.0,3-5 yrs
+198,35,Male,Master's,Senior Software Developer,9,110000.0,6-10 yrs
+199,49,Female,Master's,Director of Human Capital,21,180000.0,20+ yrs
+200,30,Male,Bachelor's,Junior Advertising Coordinator,3,45000.0,3-5 yrs
+201,44,Male,Bachelor's,Senior Sales Manager,16,130000.0,11-20 yrs
+202,27,Female,Master's,Junior UX Designer,1,45000.0,0-2 yrs
+203,36,Male,Bachelor's,Senior Accountant,7,90000.0,6-10 yrs
+204,41,Female,PhD,Senior Marketing Director,17,160000.0,11-20 yrs
+205,31,Male,Bachelor's,Junior HR Generalist,4,50000.0,3-5 yrs
+206,39,Female,Bachelor's,Senior Operations Manager,10,120000.0,6-10 yrs
+207,47,Male,Master's,Director of Finance,20,170000.0,11-20 yrs
+208,30,Female,Bachelor's,Junior Marketing Coordinator,2,40000.0,0-2 yrs
+209,38,Male,Master's,Senior IT Consultant,9,110000.0,6-10 yrs
+210,45,Female,PhD,Senior Product Designer,15,150000.0,11-20 yrs
+211,28,Male,Bachelor's,Junior Business Development Associate,2,40000.0,0-2 yrs
+212,35,Female,Bachelor's,Senior Marketing Analyst,8,85000.0,6-10 yrs
+213,44,Male,Bachelor's,Senior Software Engineer,14,130000.0,11-20 yrs
+214,34,Female,Master's,Senior Financial Advisor,6,100000.0,6-10 yrs
+215,35,Male,Bachelor's,Senior Project Coordinator,9,95000.0,6-10 yrs
+216,50,Female,PhD,Director of Operations,22,180000.0,20+ yrs
+217,29,Male,Bachelor's,Junior Business Operations Analyst,1,35000.0,0-2 yrs
+218,40,Female,Bachelor's,Senior Sales Representative,12,100000.0,11-20 yrs
+219,48,Male,Master's,Director of Marketing,19,170000.0,11-20 yrs
+220,31,Female,Bachelor's,Junior Social Media Specialist,3,45000.0,3-5 yrs
+221,33,Male,Bachelor's,Senior Product Development Manager,7,100000.0,6-10 yrs
+222,42,Female,Master's,Senior Human Resources Manager,13,140000.0,11-20 yrs
+223,28,Male,Bachelor's,Junior Financial Analyst,2,40000.0,0-2 yrs
+224,40,Female,Bachelor's,Senior Marketing Manager,11,105000.0,11-20 yrs
+225,46,Male,PhD,Senior Data Scientist,18,160000.0,11-20 yrs
+226,33,Female,Bachelor's,Junior Operations Manager,5,70000.0,3-5 yrs
+227,37,Male,Master's,Senior Software Architect,9,120000.0,6-10 yrs
+228,51,Female,Master's,Director of Human Resources,21,190000.0,20+ yrs
+229,30,Male,Bachelor's,Junior Marketing Specialist,3,45000.0,3-5 yrs
+230,43,Male,Bachelor's,Senior Project Manager,15,120000.0,11-20 yrs
+231,27,Female,Master's,Junior Research Scientist,1,50000.0,0-2 yrs
+232,35,Male,Bachelor's,Senior Operations Analyst,8,85000.0,6-10 yrs
+233,42,Female,PhD,Senior Marketing Manager,13,140000.0,11-20 yrs
+234,32,Male,Bachelor's,Junior Sales Representative,3,45000.0,3-5 yrs
+235,37,Female,Bachelor's,Senior Financial Analyst,9,100000.0,6-10 yrs
+236,45,Male,Master's,Senior Software Developer,16,140000.0,11-20 yrs
+237,33,Female,Bachelor's,Junior Operations Analyst,5,70000.0,3-5 yrs
+238,39,Male,Bachelor's,Senior Marketing Specialist,10,120000.0,6-10 yrs
+239,44,Female,PhD,Senior HR Manager,18,160000.0,11-20 yrs
+240,29,Male,Bachelor's,Junior Business Analyst,1,40000.0,0-2 yrs
+241,38,Female,Bachelor's,Senior Product Manager,10,120000.0,6-10 yrs
+242,46,Male,PhD,Senior Data Analyst,19,150000.0,11-20 yrs
+243,34,Female,Bachelor's,Junior Marketing Analyst,6,70000.0,6-10 yrs
+244,36,Male,Bachelor's,Senior Operations Manager,8,95000.0,6-10 yrs
+245,49,Female,Master's,Director of Marketing,21,180000.0,20+ yrs
+246,31,Male,Bachelor's,Junior Financial Analyst,3,50000.0,3-5 yrs
+247,41,Female,Bachelor's,Senior Project Coordinator,11,95000.0,11-20 yrs
+248,47,Male,Master's,Director of Operations,20,170000.0,11-20 yrs
+249,37,Female,Bachelor's,Senior Financial Manager,10,120000.0,6-10 yrs
+250,31,Female,Bachelor's,Junior Marketing Coordinator,3,50000.0,3-5 yrs
+251,42,Male,Bachelor's,Senior Operations Manager,12,110000.0,11-20 yrs
+252,29,Female,Bachelor's,Junior Sales Representative,1,40000.0,0-2 yrs
+253,36,Male,Bachelor's,Senior Marketing Specialist,8,95000.0,6-10 yrs
+254,44,Female,Master's,Senior HR Specialist,15,140000.0,11-20 yrs
+255,33,Male,Bachelor's,Junior Operations Manager,4,60000.0,3-5 yrs
+256,39,Female,Bachelor's,Senior Marketing Coordinator,9,110000.0,6-10 yrs
+257,45,Male,PhD,Senior Data Engineer,16,150000.0,11-20 yrs
+258,32,Female,Bachelor's,Junior Marketing Manager,4,60000.0,3-5 yrs
+259,37,Male,Bachelor's,Senior Financial Analyst,8,90000.0,6-10 yrs
+260,47,Female,Master's,Director of Marketing,20,180000.0,11-20 yrs
+261,30,Male,Bachelor's,Junior Business Analyst,2,40000.0,0-2 yrs
+262,38,Female,Bachelor's,Senior Project Manager,9,120000.0,6-10 yrs
+263,46,Male,PhD,Senior Data Analyst,17,160000.0,11-20 yrs
+264,34,Female,Bachelor's,Junior Financial Analyst,5,70000.0,3-5 yrs
+265,36,Male,Bachelor's,Senior Product Manager,8,95000.0,6-10 yrs
+266,49,Female,Master's,Director of Operations,21,180000.0,20+ yrs
+267,31,Male,Bachelor's,Junior Operations Analyst,3,50000.0,3-5 yrs
+268,47,Male,Master's,Director of Marketing,19,170000.0,11-20 yrs
+269,29,Female,Bachelor's,Junior Business Development Associate,1,35000.0,0-2 yrs
+270,35,Male,Bachelor's,Senior Financial Manager,9,100000.0,6-10 yrs
+271,44,Female,PhD,Senior Product Designer,15,150000.0,11-20 yrs
+272,33,Male,Bachelor's,Junior Business Analyst,4,60000.0,3-5 yrs
+273,44,Male,Bachelor's,Senior Software Engineer,13,130000.0,11-20 yrs
+274,32,Male,Bachelor's,Junior Product Manager,4,65000.0,3-5 yrs
+275,38,Female,Bachelor's,Senior Business Analyst,10,110000.0,6-10 yrs
+276,49,Male,PhD,Director of Operations,21,180000.0,20+ yrs
+277,29,Female,Bachelor's,Junior Marketing Specialist,2,40000.0,0-2 yrs
+278,35,Male,Bachelor's,Senior Business Development Manager,7,90000.0,6-10 yrs
+279,45,Female,Master's,Senior HR Manager,14,140000.0,11-20 yrs
+280,33,Male,Bachelor's,Junior Financial Analyst,4,60000.0,3-5 yrs
+281,40,Female,Bachelor's,Senior Marketing Manager,12,130000.0,11-20 yrs
+282,44,Male,PhD,Senior Data Scientist,16,160000.0,11-20 yrs
+283,30,Female,Bachelor's,Junior Operations Coordinator,2,40000.0,0-2 yrs
+284,37,Male,Bachelor's,Senior Marketing Analyst,9,100000.0,6-10 yrs
+285,48,Female,Master's,Director of HR,20,180000.0,11-20 yrs
+286,31,Male,Bachelor's,Junior Project Manager,3,55000.0,3-5 yrs
+287,38,Female,Bachelor's,Senior Operations Coordinator,9,120000.0,6-10 yrs
+288,33,Female,Bachelor's,Junior Marketing Manager,5,70000.0,3-5 yrs
+289,36,Male,Bachelor's,Senior Business Analyst,8,95000.0,6-10 yrs
+290,42,Female,Bachelor's,Senior Project Manager,12,120000.0,11-20 yrs
+291,34,Female,Master's,Senior Financial Advisor,6,80000.0,6-10 yrs
+292,30,Female,Bachelor's,Junior HR Coordinator,2,40000.0,0-2 yrs
+293,37,Male,Bachelor's,Senior Business Development Manager,10,120000.0,6-10 yrs
+294,45,Female,Master's,Senior Marketing Manager,16,160000.0,11-20 yrs
+295,32,Male,Bachelor's,Junior Financial Advisor,4,65000.0,3-5 yrs
+296,39,Female,Bachelor's,Senior Project Manager,12,130000.0,11-20 yrs
+297,47,Male,PhD,Director of Engineering,20,180000.0,11-20 yrs
+298,29,Female,Bachelor's,Junior Marketing Analyst,2,40000.0,0-2 yrs
+299,36,Male,Bachelor's,Senior Operations Manager,9,100000.0,6-10 yrs
+300,43,Female,PhD,Senior Data Scientist,15,150000.0,11-20 yrs
+301,32,Male,Bachelor's,Junior Marketing Coordinator,3,55000.0,3-5 yrs
+302,48,Male,Master's,Director of Marketing,21,180000.0,20+ yrs
+303,31,Female,Bachelor's,Junior Business Development Associate,3,50000.0,3-5 yrs
+304,40,Male,Bachelor's,Senior Financial Analyst,12,130000.0,11-20 yrs
+305,45,Female,PhD,Senior UX Designer,16,160000.0,11-20 yrs
+306,33,Male,Bachelor's,Junior Product Manager,4,60000.0,3-5 yrs
+307,36,Female,Bachelor's,Senior Marketing Manager,8,95000.0,6-10 yrs
+308,47,Male,Master's,Director of Operations,19,170000.0,11-20 yrs
+309,29,Female,Bachelor's,Junior Project Manager,2,40000.0,0-2 yrs
+310,34,Male,Bachelor's,Senior Operations Coordinator,7,90000.0,6-10 yrs
+311,44,Female,PhD,Senior Business Analyst,15,150000.0,11-20 yrs
+312,33,Male,Bachelor's,Junior Marketing Specialist,5,70000.0,3-5 yrs
+313,35,Female,Bachelor's,Senior Financial Manager,8,90000.0,6-10 yrs
+314,43,Male,Master's,Director of Marketing,18,170000.0,11-20 yrs
+315,31,Female,Bachelor's,Junior Financial Analyst,3,50000.0,3-5 yrs
+316,41,Male,Bachelor's,Senior Product Manager,14,150000.0,11-20 yrs
+317,44,Female,PhD,Senior Data Engineer,16,160000.0,11-20 yrs
+318,45,Male,Master's,Director of Engineering,19,180000.0,11-20 yrs
+319,28,Female,Bachelor's,Junior Operations Manager,1,35000.0,0-2 yrs
+320,36,Male,Bachelor's,Senior Business Development Manager,8,110000.0,6-10 yrs
+321,44,Female,PhD,Senior Data Scientist,16,160000.0,11-20 yrs
+322,31,Male,Bachelor's,Junior Marketing Coordinator,3,55000.0,3-5 yrs
+323,43,Male,Master's,Director of Operations,19,170000.0,11-20 yrs
+324,31,Male,Master's,Data Scientist,6,160000.0,6-10 yrs
+325,28,Female,Bachelor's,Software Engineer,3,125000.0,3-5 yrs
+326,26,Male,Master's,Product Manager,2,120000.0,0-2 yrs
+327,27,Female,Bachelor's,Data Analyst,2,110000.0,0-2 yrs
+328,30,Male,PhD,Data Scientist,5,180000.0,3-5 yrs
+329,29,Female,Bachelor's,Software Engineer,4,140000.0,3-5 yrs
+330,32,Male,Bachelor's,Product Manager,7,170000.0,6-10 yrs
+331,25,Female,Master's,Data Analyst,1,100000.0,0-2 yrs
+332,33,Male,PhD,Data Scientist,8,190000.0,6-10 yrs
+333,31,Female,Bachelor's,Software Engineer,6,155000.0,6-10 yrs
+334,28,Male,Master's,Product Manager,3,130000.0,3-5 yrs
+335,30,Female,Bachelor's,Data Analyst,5,145000.0,3-5 yrs
+336,27,Male,PhD,Data Scientist,2,115000.0,0-2 yrs
+337,34,Male,Bachelor's,Product Manager,9,185000.0,6-10 yrs
+338,28,Male,Bachelor's,Software Engineer,3,125000.0,3-5 yrs
+339,26,Female,Master's,Product Manager,2,120000.0,0-2 yrs
+340,27,Male,Bachelor's,Data Analyst,2,110000.0,0-2 yrs
+341,30,Female,PhD,Data Scientist,5,180000.0,3-5 yrs
+342,29,Male,Bachelor's,Software Engineer,4,140000.0,3-5 yrs
+343,26,Male,Bachelor's,Data Analyst,3,130000.0,3-5 yrs
+344,29,Female,Master's,Data Scientist,6,180000.0,6-10 yrs
+345,32,Male,Bachelor's,Software Engineer,8,190000.0,6-10 yrs
+346,27,Female,Bachelor's,Product Manager,4,150000.0,3-5 yrs
+347,24,Male,Bachelor's,Data Analyst,1,90000.0,0-2 yrs
+348,31,Female,Master's,Data Scientist,9,195000.0,6-10 yrs
+349,28,Male,Bachelor's,Software Engineer,5,160000.0,3-5 yrs
+350,33,Female,Master's,Product Manager,11,198000.0,11-20 yrs
+351,25,Male,Bachelor's,Data Analyst,2,110000.0,0-2 yrs
+352,30,Female,PhD,Data Scientist,7,185000.0,6-10 yrs
+353,27,Male,Bachelor's,Software Engineer,4,140000.0,3-5 yrs
+354,34,Female,Master's,Product Manager,12,196000.0,11-20 yrs
+355,23,Male,Bachelor's,Data Analyst,1,95000.0,0-2 yrs
+356,32,Female,PhD,Data Scientist,10,193000.0,6-10 yrs
+357,29,Male,Bachelor's,Software Engineer,6,175000.0,6-10 yrs
+358,30,Female,Bachelor's,Product Manager,5,160000.0,3-5 yrs
+359,31,Female,Master's,Data Scientist,6,180000.0,6-10 yrs
+360,31,Male,Bachelor's,Data Analyst,9,195000.0,6-10 yrs
+361,28,Female,Bachelor's,Software Engineer,5,160000.0,3-5 yrs
+362,33,Male,Master's,Product Manager,11,198000.0,11-20 yrs
+363,26,Female,Bachelor's,Data Analyst,3,130000.0,3-5 yrs
+364,30,Male,PhD,Data Scientist,7,185000.0,6-10 yrs
+365,27,Female,Bachelor's,Software Engineer,4,140000.0,3-5 yrs
+366,34,Male,Master's,Product Manager,12,196000.0,11-20 yrs
+367,25,Female,Bachelor's,Data Analyst,2,110000.0,0-2 yrs
+368,30,Male,Bachelor's,Data Analyst,5,160000.0,3-5 yrs
+369,31,Female,PhD,Data Scientist,9,195000.0,6-10 yrs
+370,25,Male,Bachelor's,Data Analyst,2,125000.0,0-2 yrs
+371,28,Female,Master's,Data Scientist,6,175000.0,6-10 yrs
+372,30,Male,Bachelor's,Software Engineer,8,190000.0,6-10 yrs
+373,24,Male,Bachelor's,Data Analyst,1,95000.0,0-2 yrs
+374,31,Male,Master's,Data Scientist,9,195000.0,6-10 yrs
+375,23,Male,Bachelor's,Data Analyst,1,90000.0,0-2 yrs
+376,29,Male,Bachelor's,Software Engineer,6,170000.0,6-10 yrs
+377,26,Male,Bachelor's,Data Analyst,3,135000.0,3-5 yrs
+378,25,Male,Bachelor's,Data Analyst,2,115000.0,0-2 yrs
+379,27,Female,Master's,Data Scientist,4,150000.0,3-5 yrs
+380,24,Female,Bachelor's,Product Manager,3,125000.0,3-5 yrs
+381,31,Male,Master's,Data Scientist,7,180000.0,6-10 yrs
+382,33,Female,Master's,Product Manager,10,195000.0,6-10 yrs
+383,30,Female,PhD,Data Scientist,6,170000.0,6-10 yrs
+384,34,Female,Master's,Product Manager,11,196000.0,11-20 yrs
+385,23,Male,Bachelor's,Data Analyst,1,92000.0,0-2 yrs
+386,32,Female,PhD,Data Scientist,9,195000.0,6-10 yrs
+387,28,Male,Bachelor's,Software Engineer,5,165000.0,3-5 yrs
+388,25,Male,Bachelor's,Data Analyst,3,135000.0,3-5 yrs
+389,33,Female,Master's,Product Manager,11,196000.0,11-20 yrs
+390,24,Male,Bachelor's,Data Analyst,1,92000.0,0-2 yrs
+391,32,Male,Bachelor's,Data Analyst,5,135000.0,3-5 yrs
+392,27,Female,Master's,Data Scientist,3,180000.0,3-5 yrs
+393,40,Male,Bachelor's,Software Engineer,12,195000.0,11-20 yrs
+394,35,Female,Bachelor's,Product Manager,8,165000.0,6-10 yrs
+395,43,Male,Master's,Data Scientist,15,198000.0,11-20 yrs
+396,29,Female,Bachelor's,Software Engineer,4,150000.0,3-5 yrs
+397,36,Male,Bachelor's,Data Analyst,9,162000.0,6-10 yrs
+398,31,Male,Master's,Data Scientist,6,175000.0,6-10 yrs
+399,42,Female,Bachelor's,Software Engineer,13,197000.0,11-20 yrs
+400,33,Male,Bachelor's,Data Analyst,7,142000.0,6-10 yrs
+401,29,Female,Master's,Data Scientist,4,182000.0,3-5 yrs
+402,41,Male,Bachelor's,Software Engineer,11,185000.0,11-20 yrs
+403,35,Female,Bachelor's,Product Manager,8,170000.0,6-10 yrs
+404,27,Male,Bachelor's,Software Engineer,4,160000.0,3-5 yrs
+405,32,Male,Bachelor's,Data Scientist,8,180000.0,6-10 yrs
+406,29,Female,Master's,Data Analyst,6,150000.0,6-10 yrs
+407,30,Male,Bachelor's,Data Analyst,5,140000.0,3-5 yrs
+408,24,Male,Bachelor's,Data Analyst,2,100000.0,0-2 yrs
+409,33,Female,Master's,Product Manager,11,190000.0,11-20 yrs
+410,26,Male,Bachelor's,Data Analyst,3,120000.0,3-5 yrs
+411,30,Female,PhD,Data Scientist,7,170000.0,6-10 yrs
+412,31,Male,Bachelor's,Data Analyst,9,190000.0,6-10 yrs
+413,28,Female,Bachelor's,Software Engineer,5,150000.0,3-5 yrs
+414,26,Female,Bachelor's,Data Analyst,3,120000.0,3-5 yrs
+415,30,Male,PhD,Data Scientist,7,170000.0,6-10 yrs
+416,27,Female,Bachelor's,Product Manager,4,130000.0,3-5 yrs
+417,24,Male,Bachelor's,Data Analyst,2,95000.0,0-2 yrs
+418,33,Male,Master's,Product Manager,11,195000.0,11-20 yrs
+419,25,Male,Bachelor's,Data Analyst,2,100000.0,0-2 yrs
+420,28,Male,Bachelor's,Software Engineer,5,150000.0,3-5 yrs
+421,29,Female,Master's,Data Scientist,6,150000.0,6-10 yrs
+422,33,Female,Master's,Product Manager,11,195000.0,11-20 yrs
+423,31,Female,Master's,Data Scientist,6,170000.0,6-10 yrs
+424,32,Male,Bachelor's,Software Engineer,8,180000.0,6-10 yrs
+425,34,Female,Master's,Product Manager,12,190000.0,11-20 yrs
+426,25,Female,Bachelor's,Data Analyst,2,100000.0,0-2 yrs
+427,29,Male,Bachelor's,Software Engineer,7,180000.0,6-10 yrs
+428,27,Female,Bachelor's,Data Analyst,5,120000.0,3-5 yrs
+429,33,Male,Master's,Data Scientist,10,195000.0,6-10 yrs
+430,28,Male,Bachelor's,Software Engineer,4,160000.0,3-5 yrs
+431,26,Female,Bachelor's,Data Analyst,3,100000.0,3-5 yrs
+432,31,Male,Bachelor's,Product Manager,8,190000.0,6-10 yrs
+433,30,Male,Master's,Software Engineer,6,170000.0,6-10 yrs
+434,32,Female,Bachelor's,Data Scientist,9,185000.0,6-10 yrs
+435,29,Male,Bachelor's,Data Analyst,7,130000.0,6-10 yrs
+436,35,Female,Bachelor's,Product Manager,12,190000.0,11-20 yrs
+437,27,Male,Bachelor's,Software Engineer,5,150000.0,3-5 yrs
+438,28,Female,Master's,Data Scientist,6,150000.0,6-10 yrs
+439,37,Male,PhD,Product Manager,14,195000.0,11-20 yrs
+440,26,Male,Bachelor's,Data Analyst,3,110000.0,3-5 yrs
+441,30,Female,Bachelor's,Software Engineer,8,180000.0,6-10 yrs
+442,31,Male,Master's,Data Scientist,9,185000.0,6-10 yrs
+443,29,Female,Bachelor's,Data Analyst,7,130000.0,6-10 yrs
+444,32,Male,Bachelor's,Software Engineer,10,190000.0,6-10 yrs
+445,28,Female,Master's,Data Scientist,6,155000.0,6-10 yrs
+446,34,Male,Bachelor's,Software Engineer,12,195000.0,11-20 yrs
+447,25,Female,Bachelor's,Data Analyst,2,90000.0,0-2 yrs
+448,30,Male,Bachelor's,Product Manager,8,185000.0,6-10 yrs
+449,29,Female,Bachelor's,Data Analyst,6,120000.0,6-10 yrs
+450,31,Male,Bachelor's,Software Engineer,9,180000.0,6-10 yrs
+451,27,Female,Bachelor's,Data Analyst,5,125000.0,3-5 yrs
+452,28,Male,Bachelor's,Senior Software Engineer,7,175000.0,6-10 yrs
+453,44,Male,PhD,Software Engineer Manager,18,190000.0,11-20 yrs
+454,33,Female,Master's,Back end Developer,5,110000.0,3-5 yrs
+455,50,Male,PhD,Senior Project Engineer,16,195000.0,11-20 yrs
+456,27,Female,Master's,Full Stack Engineer,3,100000.0,3-5 yrs
+457,25,Male,Bachelor's,Front end Developer,1,60000.0,0-2 yrs
+458,35,Male,Master's,Senior Software Engineer,8,155000.0,6-10 yrs
+459,47,Female,PhD,Full Stack Engineer,12,175000.0,11-20 yrs
+460,46,Female,Master's,Senior Project Engineer,13,180000.0,11-20 yrs
+461,32,Male,Bachelor's,Back end Developer,4,95000.0,3-5 yrs
+462,61,Male,PhD,Software Engineer Manager,20,200000.0,11-20 yrs
+463,41,Male,Master's,Senior Software Engineer,11,165000.0,11-20 yrs
+464,37,Male,Master's,Senior Project Engineer,9,145000.0,6-10 yrs
+465,53,Male,PhD,Software Engineer Manager,19,195000.0,11-20 yrs
+466,30,Female,Bachelor's,Front end Developer,2,75000.0,0-2 yrs
+467,26,Female,Master's,Back end Developer,3,90000.0,3-5 yrs
+468,37,Female,Master's,Senior Software Engineer,9,155000.0,6-10 yrs
+469,32,Male,Bachelor's,Full Stack Engineer,5,115000.0,3-5 yrs
+470,44,Female,Master's,Senior Software Engineer,12,170000.0,11-20 yrs
+471,50,Female,PhD,Software Engineer Manager,16,190000.0,11-20 yrs
+472,27,Male,Bachelor's,Senior Project Engineer,4,115000.0,3-5 yrs
+473,42,Male,PhD,Full Stack Engineer,14,180000.0,11-20 yrs
+474,57,Male,PhD,Software Engineer Manager,18,195000.0,11-20 yrs
+475,35,Male,Master's,Senior Software Engineer,7,140000.0,6-10 yrs
+476,62,Male,PhD,Software Engineer Manager,19,200000.0,11-20 yrs
+477,26,Female,Master's,Back end Developer,2,70000.0,0-2 yrs
+478,42,Female,Master's,Senior Project Engineer,11,170000.0,11-20 yrs
+479,41,Female,PhD,Software Engineer Manager,14,185000.0,11-20 yrs
+480,36,Female,Master's,Full Stack Engineer,8,140000.0,6-10 yrs
+481,49,Male,PhD,Software Engineer Manager,15,185000.0,11-20 yrs
+482,49,Male,PhD,Senior Project Engineer,15,185000.0,11-20 yrs
+483,47,Male,PhD,Software Engineer Manager,15,180000.0,11-20 yrs
+484,47,Male,PhD,Senior Software Engineer,14,175000.0,11-20 yrs
+485,26,Male,Bachelor's,Front end Developer,2,70000.0,0-2 yrs
+486,24,Female,Bachelor's,Back end Developer,1,60000.0,0-2 yrs
+487,62,Male,PhD,Software Engineer Manager,20,200000.0,11-20 yrs
+488,42,Male,PhD,Senior Software Engineer,14,170000.0,11-20 yrs
+489,41,Female,Master's,Senior Project Engineer,11,165000.0,11-20 yrs
+490,23,Male,Bachelor's,Full Stack Engineer,1,55000.0,0-2 yrs
+491,55,Male,PhD,Software Engineer Manager,17,190000.0,11-20 yrs
+492,33,Female,Bachelor's,Front end Developer,5,105000.0,3-5 yrs
+493,31,Male,Master's,Full Stack Engineer,6,130000.0,6-10 yrs
+494,50,Female,PhD,Software Engineer Manager,16,185000.0,11-20 yrs
+495,24,Female,Master's,Back end Developer,1,60000.0,0-2 yrs
+496,56,Male,PhD,Software Engineer Manager,17,195000.0,11-20 yrs
+497,24,Male,Bachelor's,Front end Developer,1,60000.0,0-2 yrs
+498,37,Male,Master's,Senior Software Engineer,8,150000.0,6-10 yrs
+499,43,Female,PhD,Senior Project Engineer,13,180000.0,11-20 yrs
+500,34,Male,Master's,Back end Developer,6,125000.0,6-10 yrs
+501,45,Male,PhD,Software Engineer Manager,15,185000.0,11-20 yrs
+502,29,Male,Bachelor's,Full Stack Engineer,3,90000.0,3-5 yrs
+503,29,Male,Bachelor's,Front end Developer,3,80000.0,3-5 yrs
+504,29,Female,Bachelor's,Back end Developer,3,85000.0,3-5 yrs
+505,48,Male,PhD,Senior Project Engineer,16,190000.0,11-20 yrs
+506,43,Female,Master's,Software Engineer Manager,11,160000.0,11-20 yrs
+507,54,Male,PhD,Software Engineer Manager,17,195000.0,11-20 yrs
+508,60,Male,PhD,Software Engineer Manager,18,195000.0,11-20 yrs
+509,54,Female,PhD,Software Engineer Manager,14,190000.0,11-20 yrs
+510,27,Female,Master's,Full Stack Engineer,3,95000.0,3-5 yrs
+511,23,Male,Bachelor's,Back end Developer,1,55000.0,0-2 yrs
+512,45,Male,PhD,Senior Software Engineer,13,185000.0,11-20 yrs
+513,32,Female,Master's,Full Stack Engineer,5,120000.0,3-5 yrs
+514,57,Male,PhD,Software Engineer Manager,16,195000.0,11-20 yrs
+515,47,Male,PhD,Software Engineer Manager,14,175000.0,11-20 yrs
+516,25,Female,Master's,Back end Developer,2,75000.0,0-2 yrs
+517,58,Male,PhD,Software Engineer Manager,17,200000.0,11-20 yrs
+518,41,Female,Master's,Senior Software Engineer,12,160000.0,11-20 yrs
+519,41,Male,PhD,Software Engineer Manager,12,175000.0,11-20 yrs
+520,47,Male,PhD,Senior Software Engineer,15,180000.0,11-20 yrs
+521,32,Male,Bachelor's,Full Stack Engineer,5,120000.0,3-5 yrs
+522,45,Male,PhD,Senior Project Engineer,14,185000.0,11-20 yrs
+523,53,Male,PhD,Software Engineer Manager,18,195000.0,11-20 yrs
+524,47,Female,PhD,Senior Software Engineer,14,170000.0,11-20 yrs
+525,23,Male,Bachelor's,Front end Developer,1,55000.0,0-2 yrs
+526,33,Male,Master's,Back end Developer,6,130000.0,6-10 yrs
+527,42,Male,PhD,Software Engineer Manager,14,180000.0,11-20 yrs
+528,37,Male,Master's,Senior Software Engineer,9,145000.0,6-10 yrs
+529,44,Female,Master's,Senior Project Engineer,12,170000.0,11-20 yrs
+530,38,Female,Master's,Back end Developer,10,155000.0,6-10 yrs
+531,34,Male,Master's,Full Stack Engineer,6,125000.0,6-10 yrs
+532,46,Female,PhD,Software Engineer Manager,14,180000.0,11-20 yrs
+533,30,Male,Bachelor's,Back end Developer,4,95000.0,3-5 yrs
+534,44,Female,Master's,Senior Software Engineer,11,170000.0,11-20 yrs
+535,42,Male,PhD,Senior Project Engineer,14,175000.0,11-20 yrs
+536,27,Male,Bachelor's,Front end Developer,3,80000.0,3-5 yrs
+537,54,Male,PhD,Software Engineer Manager,18,195000.0,11-20 yrs
+538,38,Male,Master's,Senior Software Engineer,10,155000.0,6-10 yrs
+539,31,Male,Master's,Senior Project Engineer,6,125000.0,6-10 yrs
+540,28,Female,Master's,Full Stack Engineer,4,110000.0,3-5 yrs
+541,30,Female,Master's,Back end Developer,6,130000.0,6-10 yrs
+542,54,Male,PhD,Software Engineer Manager,16,190000.0,11-20 yrs
+543,37,Male,Master's,Senior Software Engineer,9,150000.0,6-10 yrs
+544,31,Male,Master's,Senior Software Engineer,7,140000.0,6-10 yrs
+545,58,Female,PhD,Software Engineer Manager,17,195000.0,11-20 yrs
+546,23,Female,Bachelor's,Back end Developer,1,55000.0,0-2 yrs
+547,52,Female,PhD,Software Engineer Manager,16,190000.0,11-20 yrs
+548,32,Female,Master's,Full Stack Engineer,6,130000.0,6-10 yrs
+549,32,Male,Master's,Back end Developer,6,130000.0,6-10 yrs
+550,34,Male,Master's,Full Stack Engineer,7,140000.0,6-10 yrs
+551,28,Male,Bachelor's,Front end Developer,2,70000.0,0-2 yrs
+552,44,Male,Master's,Senior Project Engineer,11,170000.0,11-20 yrs
+553,46,Male,PhD,Software Engineer Manager,14,180000.0,11-20 yrs
+554,27,Female,Master's,Back end Developer,2,70000.0,0-2 yrs
+555,23,Female,Bachelor's,Front end Developer,1,55000.0,0-2 yrs
+556,43,Male,PhD,Software Engineer Manager,13,180000.0,11-20 yrs
+557,28,Female,Bachelor's,Front end Developer,2,70000.0,0-2 yrs
+558,43,Male,Master's,Senior Project Engineer,12,165000.0,11-20 yrs
+559,43,Male,PhD,Senior Project Engineer,13,185000.0,11-20 yrs
+560,36,Male,Master's,Senior Software Engineer,7,140000.0,6-10 yrs
+561,28,Female,Bachelor's,Front end Developer,3,80000.0,3-5 yrs
+562,28,Female,Master's,Back end Developer,3,90000.0,3-5 yrs
+563,43,Male,PhD,Senior Software Engineer,12,170000.0,11-20 yrs
+564,44,Male,PhD,Senior Project Engineer,12,170000.0,11-20 yrs
+565,37,Male,Master's,Senior Software Engineer,10,155000.0,6-10 yrs
+566,56,Male,PhD,Software Engineer Manager,18,195000.0,11-20 yrs
+567,27,Male,Bachelor's,Front end Developer,2,70000.0,0-2 yrs
+568,31,Male,Master's,Full Stack Engineer,7,140000.0,6-10 yrs
+569,50,Male,PhD,Software Engineer Manager,16,190000.0,11-20 yrs
+570,33,Male,Master's,Full Stack Engineer,6,130000.0,6-10 yrs
+571,41,Male,PhD,Senior Project Engineer,12,165000.0,11-20 yrs
+572,24,Female,Bachelor's,Front end Developer,1,55000.0,0-2 yrs
+573,43,Male,PhD,Senior Project Engineer,12,165000.0,11-20 yrs
+574,58,Male,PhD,Software Engineer Manager,17,195000.0,11-20 yrs
+575,29,Female,Bachelor's,Front end Developer,3,85000.0,3-5 yrs
+576,52,Male,PhD,Software Engineer Manager,18,200000.0,11-20 yrs
+577,36,Male,Master's,Full Stack Engineer,8,140000.0,6-10 yrs
+578,26,Male,Bachelor's,Back end Developer,2,65000.0,0-2 yrs
+579,47,Male,PhD,Senior Project Engineer,16,190000.0,11-20 yrs
+580,32,Male,Master's,Full Stack Engineer,6,120000.0,6-10 yrs
+581,57,Male,PhD,Software Engineer Manager,18,200000.0,11-20 yrs
+582,51,Male,PhD,Software Engineer Manager,16,190000.0,11-20 yrs
+583,27,Female,Master's,Back end Developer,2,65000.0,0-2 yrs
+584,36,Male,Master's,Full Stack Engineer,7,130000.0,6-10 yrs
+585,33,Female,Master's,Full Stack Engineer,5,120000.0,3-5 yrs
+586,25,Male,Bachelor's,Front end Developer,1,55000.0,0-2 yrs
+587,40,Male,PhD,Senior Software Engineer,12,160000.0,11-20 yrs
+588,36,Male,Master's,Senior Software Engineer,8,140000.0,6-10 yrs
+589,31,Male,Master's,Senior Project Engineer,7,135000.0,6-10 yrs
+590,24,Male,Bachelor's,Back end Developer,1,55000.0,0-2 yrs
+591,34,Male,Bachelor's,Front end Developer,5,95000.0,3-5 yrs
+592,43,Female,Master's,Senior Software Engineer,12,170000.0,11-20 yrs
+593,27,Male,Bachelor's,Back end Developer,2,75000.0,0-2 yrs
+594,56,Female,PhD,Software Engineer Manager,18,210000.0,11-20 yrs
+595,32,Male,Master's,Full Stack Engineer,7,135000.0,6-10 yrs
+596,46,Male,PhD,Senior Project Engineer,16,190000.0,11-20 yrs
+597,41,Female,PhD,Senior Project Engineer,11,165000.0,11-20 yrs
+598,34,Male,Bachelor's,Back end Developer,6,120000.0,6-10 yrs
+599,40,Female,PhD,Senior Software Engineer,12,160000.0,11-20 yrs
+600,24,Male,Bachelor's,Front end Developer,1,55000.0,0-2 yrs
+601,36,Male,Bachelor's,Front end Developer,7,120000.0,6-10 yrs
+602,29,Female,Master's,Back end Developer,3,90000.0,3-5 yrs
+603,41,Female,PhD,Software Engineer Manager,14,180000.0,11-20 yrs
+604,33,Male,Bachelor's,Full Stack Engineer,7,130000.0,6-10 yrs
+605,42,Male,PhD,Senior Software Engineer,12,170000.0,11-20 yrs
+606,28,Male,Bachelor's,Back end Developer,2,70000.0,0-2 yrs
+607,55,Male,PhD,Software Engineer Manager,18,210000.0,11-20 yrs
+608,26,Female,Master's,Front end Developer,1,55000.0,0-2 yrs
+609,44,Female,PhD,Software Engineer Manager,11,165000.0,11-20 yrs
+610,30,Male,Master's,Full Stack Engineer,5,105000.0,3-5 yrs
+611,39,Female,Master's,Senior Software Engineer,11,160000.0,11-20 yrs
+612,32,Male,Bachelor's,Front end Developer,6,110000.0,6-10 yrs
+613,50,Male,PhD,Software Engineer Manager,17,195000.0,11-20 yrs
+614,27,Male,Bachelor's,Back end Developer,3,85000.0,3-5 yrs
+615,46,Male,PhD,Senior Project Engineer,14,180000.0,11-20 yrs
+616,25,Female,Bachelor's,Front end Developer,1,55000.0,0-2 yrs
+617,35,Male,Bachelor's,Back end Developer,8,140000.0,6-10 yrs
+618,35,Male,Bachelor's,Full Stack Engineer,8,145000.0,6-10 yrs
+619,41,Male,PhD,Senior Project Engineer,13,185000.0,11-20 yrs
+620,33,Male,Bachelor's,Front end Developer,6,110000.0,6-10 yrs
+621,31,Male,Bachelor's,Front end Developer,6,115000.0,6-10 yrs
+622,42,Female,Master's,Software Engineer Manager,13,170000.0,11-20 yrs
+623,27,Female,Bachelor's,Back end Developer,3,80000.0,3-5 yrs
+624,51,Male,PhD,Senior Project Engineer,19,200000.0,11-20 yrs
+625,34,Female,Master's,Full Stack Engineer,7,130000.0,6-10 yrs
+626,38,Male,Bachelor's,Software Engineer Manager,11,155000.0,11-20 yrs
+627,29,Male,Bachelor's,Front end Developer,5,105000.0,3-5 yrs
+628,43,Female,PhD,Senior Project Engineer,14,190000.0,11-20 yrs
+629,36,Male,Master's,Back end Developer,8,140000.0,6-10 yrs
+630,48,Male,PhD,Software Engineer Manager,16,185000.0,11-20 yrs
+631,35,Female,Bachelor's,Full Stack Engineer,8,145000.0,6-10 yrs
+632,30,Female,Master's,Front end Developer,4,90000.0,3-5 yrs
+633,50,Male,PhD,Senior Project Engineer,18,195000.0,11-20 yrs
+634,29,Male,Bachelor's,Back end Developer,4,95000.0,3-5 yrs
+635,41,Male,Master's,Software Engineer Manager,13,170000.0,11-20 yrs
+636,33,Female,Bachelor's,Full Stack Engineer,6,115000.0,6-10 yrs
+637,45,Male,PhD,Senior Project Engineer,16,185000.0,11-20 yrs
+638,28,Female,Bachelor's,Front end Developer,2,65000.0,0-2 yrs
+639,39,Female,Master's,Software Engineer Manager,12,160000.0,11-20 yrs
+640,30,Male,Bachelor's,Back end Developer,5,100000.0,3-5 yrs
+641,46,Male,PhD,Senior Project Engineer,15,180000.0,11-20 yrs
+642,42,Male,PhD,Software Engineer Manager,14,190000.0,11-20 yrs
+643,31,Male,Bachelor's,Full Stack Engineer,6,115000.0,6-10 yrs
+644,49,Female,PhD,Senior Project Engineer,17,195000.0,11-20 yrs
+645,36,Male,Master's,Back end Developer,9,150000.0,6-10 yrs
+646,45,Male,PhD,Software Engineer Manager,16,185000.0,11-20 yrs
+647,29,Male,Bachelor's,Front end Developer,4,90000.0,3-5 yrs
+648,40,Female,Master's,Software Engineer Manager,12,160000.0,11-20 yrs
+649,33,Female,Master's,Full Stack Engineer,6,115000.0,6-10 yrs
+650,37,Male,Bachelor's,Software Engineer Manager,10,150000.0,6-10 yrs
+651,28,Male,Bachelor's,Front end Developer,2,65000.0,0-2 yrs
+652,44,Female,PhD,Senior Project Engineer,14,190000.0,11-20 yrs
+653,35,Male,Master's,Back end Developer,8,140000.0,6-10 yrs
+654,47,Male,PhD,Software Engineer Manager,16,185000.0,11-20 yrs
+655,34,Female,Bachelor's,Full Stack Engineer,7,130000.0,6-10 yrs
+656,31,Female,Master's,Front end Developer,5,105000.0,3-5 yrs
+657,42,Male,Master's,Software Engineer Manager,13,170000.0,11-20 yrs
+658,29,Female,Bachelor's,Front end Developer,4,90000.0,3-5 yrs
+659,27,Male,Bachelor's,Back end Developer,3,80000.0,3-5 yrs
+660,49,Male,PhD,Senior Project Engineer,17,195000.0,11-20 yrs
+661,32,Female,Master's,Full Stack Engineer,6,115000.0,6-10 yrs
+662,36,Male,Bachelor's,Software Engineer Manager,8,135000.0,6-10 yrs
+663,27,Male,Bachelor's,Front end Developer,2,65000.0,0-2 yrs
+664,34,Male,Master's,Back end Developer,8,140000.0,6-10 yrs
+665,46,Male,PhD,Software Engineer Manager,16,185000.0,11-20 yrs
+666,33,Female,Bachelor's,Full Stack Engineer,7,130000.0,6-10 yrs
+667,30,Female,Master's,Front end Developer,5,105000.0,3-5 yrs
+668,50,Male,PhD,Senior Project Engineer,19,200000.0,11-20 yrs
+669,31,Female,Bachelor's,Front end Developer,6,110000.0,6-10 yrs
+670,37,Male,Master's,Software Engineer Manager,10,150000.0,6-10 yrs
+671,31,Male,Master's,Software Engineer Manager,8,130000.0,6-10 yrs
+672,43,Male,PhD,Senior Project Engineer,15,180000.0,11-20 yrs
+673,35,Female,Master's,Full Stack Engineer,8,140000.0,6-10 yrs
+674,42,Male,Bachelor's,Software Engineer Manager,12,160000.0,11-20 yrs
+675,28,Female,Bachelor's,Front end Developer,2,55000.0,0-2 yrs
+676,44,Female,PhD,Senior Project Engineer,16,190000.0,11-20 yrs
+677,32,Male,Master's,Back end Developer,7,120000.0,6-10 yrs
+678,48,Male,PhD,Software Engineer Manager,18,200000.0,11-20 yrs
+679,30,Female,Bachelor's,Full Stack Engineer,5,100000.0,3-5 yrs
+680,34,Male,Master's,Front end Developer,9,150000.0,6-10 yrs
+681,37,Female,Bachelor's,Software Engineer Manager,11,170000.0,11-20 yrs
+682,49,Female,PhD,Senior Project Engineer,19,210000.0,11-20 yrs
+683,29,Male,Bachelor's,Full Stack Engineer,4,90000.0,3-5 yrs
+684,41,Male,Master's,Software Engineer Manager,14,180000.0,11-20 yrs
+685,46,Female,PhD,Senior Project Engineer,16,185000.0,11-20 yrs
+686,30,Male,Master's,Front end Developer,5,105000.0,3-5 yrs
+687,50,Male,PhD,Software Engineer Manager,20,210000.0,11-20 yrs
+688,31,Male,Bachelor's,Back end Developer,6,95000.0,6-10 yrs
+689,39,Female,Master's,Software Engineer Manager,11,170000.0,11-20 yrs
+690,48,Male,PhD,Software Engineer Manager,19,200000.0,11-20 yrs
+691,28,Male,Bachelor's,Software Engineer,4,75000.0,3-5 yrs
+692,33,Female,Master's,Data Analyst,7,95000.0,6-10 yrs
+693,22,Male,Bachelor's,Front End Developer,1,50000.0,0-2 yrs
+694,44,Male,PhD,Senior Data Scientist,15,180000.0,11-20 yrs
+695,29,Female,Bachelor's,Software Developer,3,65000.0,3-5 yrs
+696,31,Male,Master's,Product Manager,6,120000.0,6-10 yrs
+697,25,Female,Master's,Software Engineer,2,60000.0,0-2 yrs
+698,38,Male,Bachelor's,Data Scientist,10,150000.0,6-10 yrs
+699,27,Male,Bachelor's,Software Engineer,3,70000.0,3-5 yrs
+700,46,Female,PhD,Director of Data Science,20,220000.0,11-20 yrs
+701,33,Male,Master's,Data Analyst,8,100000.0,6-10 yrs
+702,24,Female,Bachelor's,Software Developer,2,55000.0,0-2 yrs
+703,36,Male,PhD,Senior Data Scientist,12,170000.0,11-20 yrs
+704,30,Female,Bachelor's,Software Engineer,5,90000.0,3-5 yrs
+705,29,Male,Bachelor's,Front End Developer,4,80000.0,3-5 yrs
+706,42,Male,Master's,Product Manager,14,180000.0,11-20 yrs
+707,26,Male,Bachelor's,Software Developer,2,60000.0,0-2 yrs
+708,35,Female,Master's,Data Analyst,9,120000.0,6-10 yrs
+709,27,Female,Bachelor's,Software Engineer,3,70000.0,3-5 yrs
+710,48,Male,PhD,Director of Data Science,18,210000.0,11-20 yrs
+711,34,Male,Master's,Data Scientist,9,140000.0,6-10 yrs
+712,23,Female,Bachelor's,Software Engineer,1,50000.0,0-2 yrs
+713,32,Male,Master's,Product Manager,7,110000.0,6-10 yrs
+714,37,Male,Bachelor's,Data Analyst,11,160000.0,11-20 yrs
+715,41,Female,PhD,Director of Data Science,16,200000.0,11-20 yrs
+716,34,Male,Master's,Data Analyst,8,100000.0,6-10 yrs
+717,34,Female,Bachelor's,Full Stack Engineer,8,122485.0,6-10 yrs
+718,25,Male,PhD,Software Engineer Manager,12,169159.0,11-20 yrs
+719,43,Male,Master's,Senior Software Engineer,21,187081.0,20+ yrs
+720,53,Other,High School,Senior Project Engineer,31,166109.0,20+ yrs
+721,27,Female,Master's,Front end Developer,5,78354.0,3-5 yrs
+722,25,Male,Bachelor's,Back end Developer,2,90249.0,0-2 yrs
+723,29,Female,Master's,Senior Software Engineer,6,132720.0,6-10 yrs
+724,52,Male,PhD,Software Engineer Manager,23,161568.0,20+ yrs
+725,41,Male,Master's,Front end Developer,13,127346.0,11-20 yrs
+726,49,Female,Bachelor's,Back end Developer,19,120177.0,11-20 yrs
+727,25,Other,High School,Full Stack Engineer,2,69032.0,0-2 yrs
+728,35,Male,Master's,Senior Project Engineer,8,101332.0,6-10 yrs
+729,57,Female,PhD,Full Stack Engineer,30,121450.0,20+ yrs
+730,35,Female,Bachelor's,Senior Project Engineer,12,166375.0,11-20 yrs
+731,43,Male,Master's,Senior Software Engineer,21,185119.0,20+ yrs
+732,37,Female,Bachelor's,Full Stack Engineer,10,149217.0,6-10 yrs
+733,50,Male,Master's,Software Engineer Manager,21,166512.0,20+ yrs
+734,52,Female,Master's,Senior Software Engineer,28,186963.0,20+ yrs
+735,26,Male,Bachelor's,Back end Developer,3,75072.0,3-5 yrs
+736,34,Female,Master's,Full Stack Engineer,10,163398.0,6-10 yrs
+737,30,Male,High School,Senior Project Engineer,11,103947.0,11-20 yrs
+738,60,Female,PhD,Software Engineer Manager,33,179180.0,20+ yrs
+739,50,Male,Bachelor's,Back end Developer,23,175966.0,20+ yrs
+740,58,Male,Master's,Senior Software Engineer,27,190004.0,20+ yrs
+741,35,Female,Master's,Full Stack Engineer,10,152039.0,6-10 yrs
+742,28,Male,Master's,Front end Developer,5,76742.0,3-5 yrs
+743,57,Female,PhD,Software Engineer Manager,33,191790.0,20+ yrs
+744,46,Female,Bachelor's,Senior Software Engineer,20,139398.0,11-20 yrs
+745,28,Male,High School,Back end Developer,7,95845.0,6-10 yrs
+746,34,Male,Master's,Full Stack Engineer,12,160976.0,11-20 yrs
+747,33,Female,Master's,Senior Project Engineer,9,126753.0,6-10 yrs
+748,37,Other,Master's,Full Stack Engineer,14,161393.0,11-20 yrs
+749,33,Male,Master's,Senior Software Engineer,8,139817.0,6-10 yrs
+750,53,Male,PhD,Software Engineer Manager,25,181714.0,20+ yrs
+751,35,Female,Bachelor's,Back end Developer,10,114776.0,6-10 yrs
+752,30,Male,Master's,Full Stack Engineer,6,105725.0,6-10 yrs
+753,24,Female,High School,Senior Project Engineer,1,52731.0,0-2 yrs
+754,36,Male,Master's,Front end Developer,8,106492.0,6-10 yrs
+755,27,Female,Bachelor's,Full Stack Engineer,4,73895.0,3-5 yrs
+756,23,Male,PhD,Software Engineer Manager,1,119836.0,0-2 yrs
+757,28,Female,Master's,Senior Software Engineer,5,99747.0,3-5 yrs
+758,52,Male,Bachelor's,Back end Developer,25,168287.0,20+ yrs
+759,28,Female,Master's,Full Stack Engineer,7,115920.0,6-10 yrs
+760,32,Male,Master's,Senior Project Engineer,11,128078.0,11-20 yrs
+761,24,Female,Bachelor's,Front end Developer,1,51265.0,0-2 yrs
+762,43,Male,High School,Senior Software Engineer,22,165919.0,20+ yrs
+763,60,Female,PhD,Software Engineer Manager,34,188651.0,20+ yrs
+764,24,Male,Master's,Back end Developer,0,55538.0,0-2 yrs
+765,55,Male,Bachelor's,Senior Project Engineer,28,193964.0,20+ yrs
+766,29,Female,Master's,Full Stack Engineer,4,104702.0,3-5 yrs
+767,44,Male,PhD,Software Engineer Manager,19,172955.0,11-20 yrs
+768,40,Female,Master's,Senior Software Engineer,16,138032.0,11-20 yrs
+769,27,Male,Bachelor's,Back end Developer,4,82683.0,3-5 yrs
+770,43,Male,Master's,Full Stack Engineer,17,155414.0,11-20 yrs
+771,49,Female,High School,Senior Project Engineer,25,154207.0,20+ yrs
+772,30,Male,Master's,Front end Developer,8,107895.0,6-10 yrs
+773,42,Female,Bachelor's,Senior Software Engineer,18,148446.0,11-20 yrs
+774,26,Male,Master's,Full Stack Engineer,4,102859.0,3-5 yrs
+775,41,Female,PhD,Software Engineer Manager,13,138662.0,11-20 yrs
+776,46,Male,Bachelor's,Senior Project Engineer,23,181699.0,20+ yrs
+777,57,Female,Master's,Full Stack Engineer,33,188232.0,20+ yrs
+778,22,Female,High School,Back end Developer,0,51832.0,0-2 yrs
+779,54,Male,PhD,Software Engineer Manager,28,188484.0,20+ yrs
+780,42,Female,Master's,Senior Software Engineer,16,138286.0,11-20 yrs
+781,49,Male,Bachelor's,Full Stack Engineer,22,181132.0,20+ yrs
+782,27,Female,Master's,Back end Developer,4,73938.0,3-5 yrs
+783,36,Male,Bachelor's,Senior Project Engineer,14,119224.0,11-20 yrs
+784,31,Female,Master's,Full Stack Engineer,6,101186.0,6-10 yrs
+785,39,Male,Master's,Software Engineer Manager,14,142360.0,11-20 yrs
+786,41,Female,Bachelor's,Senior Project Engineer,20,151315.0,11-20 yrs
+787,48,Male,PhD,Full Stack Engineer,23,181021.0,20+ yrs
+788,39,Female,Master's,Senior Software Engineer,15,134641.0,11-20 yrs
+789,48,Male,Bachelor's,Front end Developer,23,173851.0,20+ yrs
+790,31,Other,High School,Back end Developer,8,104127.0,6-10 yrs
+791,47,Male,Master's,Senior Project Engineer,25,178859.0,20+ yrs
+792,29,Female,PhD,Full Stack Engineer,5,98568.0,3-5 yrs
+793,32,Male,Bachelor's,Software Engineer Manager,9,104661.0,6-10 yrs
+794,38,Female,Master's,Senior Software Engineer,13,134858.0,11-20 yrs
+795,34,Male,Bachelor's,Back end Developer,10,94502.0,6-10 yrs
+796,23,Other,High School,Front end Developer,2,62852.0,0-2 yrs
+797,36,Male,Bachelor's,Front end Developer,14,139095.0,11-20 yrs
+798,30,Female,Master's,Senior Project Engineer,5,106278.0,3-5 yrs
+799,28,Male,Master's,Full Stack Engineer,4,90452.0,3-5 yrs
+800,46,Female,PhD,Software Engineer Manager,23,168304.0,20+ yrs
+801,34,Male,Bachelor's,Back end Developer,10,126593.0,6-10 yrs
+802,44,Male,Master's,Senior Software Engineer,19,152203.0,11-20 yrs
+803,55,Female,PhD,Software Engineer Manager,30,183138.0,20+ yrs
+804,35,Male,Master's,Full Stack Engineer,9,130275.0,6-10 yrs
+805,54,Male,Bachelor's,Senior Project Engineer,29,191915.0,20+ yrs
+806,23,Female,High School,Back end Developer,2,62807.0,0-2 yrs
+807,46,Male,Master's,Senior Software Engineer,21,174305.0,20+ yrs
+808,33,Female,Bachelor's,Full Stack Engineer,9,133326.0,6-10 yrs
+809,26,Male,Master's,Front end Developer,4,75656.0,3-5 yrs
+810,43,Female,PhD,Software Engineer Manager,19,155944.0,11-20 yrs
+811,36,Male,Master's,Full Stack Engineer,11,137775.0,11-20 yrs
+812,23,Female,Bachelor's,Senior Project Engineer,0,51831.0,0-2 yrs
+813,49,Male,Master's,Software Engineer Manager,22,182237.0,20+ yrs
+814,35,Female,Master's,Full Stack Engineer,10,151901.0,6-10 yrs
+815,31,Male,Bachelor's,Back end Developer,8,100052.0,6-10 yrs
+816,54,Other,High School,Senior Software Engineer,29,158254.0,20+ yrs
+817,43,Male,Master's,Full Stack Engineer,20,167207.0,11-20 yrs
+818,33,Female,Master's,Senior Project Engineer,10,112439.0,6-10 yrs
+819,52,Female,PhD,Software Engineer Manager,29,194214.0,20+ yrs
+820,28,Male,Bachelor's,Full Stack Engineer,5,84407.0,3-5 yrs
+821,36,Female,Master's,Senior Software Engineer,13,139413.0,11-20 yrs
+822,43,Male,Bachelor's,Senior Project Engineer,20,143084.0,11-20 yrs
+823,50,Female,Master's,Full Stack Engineer,25,192344.0,20+ yrs
+824,24,Male,PhD,Software Engineer Manager,1,106132.0,0-2 yrs
+825,52,Male,Master's,Senior Software Engineer,26,184816.0,20+ yrs
+826,46,Female,Bachelor's,Back end Developer,19,150248.0,11-20 yrs
+827,38,Male,Master's,Full Stack Engineer,15,170995.0,11-20 yrs
+828,29,Male,Bachelor's,Senior Project Engineer,6,88035.0,6-10 yrs
+829,33,Female,Master's,Front end Developer,10,119419.0,6-10 yrs
+830,47,Male,PhD,Software Engineer Manager,21,173582.0,20+ yrs
+831,45,Female,Master's,Senior Software Engineer,23,174436.0,20+ yrs
+832,28,Male,Bachelor's,Back end Developer,4,71699.0,3-5 yrs
+833,42,Female,Master's,Full Stack Engineer,14,163558.0,11-20 yrs
+834,46,Male,Bachelor's,Senior Project Engineer,24,166828.0,20+ yrs
+835,38,Female,PhD,Software Engineer Manager,15,144496.0,11-20 yrs
+837,33,Female,Master's,Full Stack Engineer,8,122581.0,6-10 yrs
+838,27,Male,High School,Back end Developer,4,79767.0,3-5 yrs
+839,50,Female,Bachelor's,Senior Project Engineer,25,177177.0,20+ yrs
+840,26,Male,Master's,Full Stack Engineer,4,89843.0,3-5 yrs
+841,31,Female,Master's,Senior Software Engineer,6,113563.0,6-10 yrs
+842,35,Male,Bachelor's,Front end Developer,10,128712.0,6-10 yrs
+843,44,Female,PhD,Software Engineer Manager,18,161621.0,11-20 yrs
+844,32,Male,Master's,Senior Project Engineer,8,121454.0,6-10 yrs
+845,54,Male,Bachelor's,Full Stack Engineer,25,179987.0,20+ yrs
+846,26,Female,Master's,Front end Developer,3,72649.0,3-5 yrs
+847,23,Male,PhD,Software Engineer Manager,0,52612.0,0-2 yrs
+848,48,Female,Master's,Senior Software Engineer,24,184006.0,20+ yrs
+849,38,Male,Bachelor's,Back end Developer,12,131960.0,11-20 yrs
+850,30,Female,Master's,Full Stack Engineer,5,102465.0,3-5 yrs
+851,40,Male,Master's,Software Engineer Manager,16,149748.0,11-20 yrs
+852,45,Female,Bachelor's,Senior Project Engineer,22,171036.0,20+ yrs
+853,36,Male,Master's,Full Stack Engineer,13,146351.0,11-20 yrs
+854,52,Male,PhD,Software Engineer Manager,26,185462.0,20+ yrs
+855,31,Female,Bachelor's,Senior Software Engineer,7,107718.0,6-10 yrs
+856,26,Male,Master's,Full Stack Engineer,4,90944.0,3-5 yrs
+857,30,Female,Master's,Senior Project Engineer,5,100425.0,3-5 yrs
+858,24,Male,Bachelor's,Back end Developer,2,63901.0,0-2 yrs
+859,45,Male,Master's,Senior Software Engineer,22,181902.0,20+ yrs
+860,33,Female,Master's,Full Stack Engineer,9,136533.0,6-10 yrs
+861,38,Male,Bachelor's,Front end Developer,11,136285.0,11-20 yrs
+862,54,Female,PhD,Software Engineer Manager,31,191818.0,20+ yrs
+863,42,Male,Master's,Full Stack Engineer,19,176643.0,11-20 yrs
+864,28,Female,Bachelor's,Senior Project Engineer,4,70022.0,3-5 yrs
+865,30,Male,Master's,Front end Developer,6,99363.0,6-10 yrs
+866,43,Female,Master's,Senior Software Engineer,19,152944.0,11-20 yrs
+867,35,Male,Bachelor's,Back end Developer,10,123386.0,6-10 yrs
+868,44,Male,Master's,Full Stack Engineer,21,168906.0,20+ yrs
+869,55,Female,Bachelor's,Senior Project Engineer,30,183020.0,20+ yrs
+870,23,Male,High School,Front end Developer,1,47898.0,0-2 yrs
+871,39,Female,Master's,Senior Software Engineer,14,135853.0,11-20 yrs
+872,43,Male,Bachelor's,Full Stack Engineer,17,149198.0,11-20 yrs
+873,29,Male,PhD,Software Engineer Manager,6,106662.0,6-10 yrs
+874,51,Male,Master's,Senior Software Engineer,28,186610.0,20+ yrs
+875,30,Female,Bachelor's,Senior Project Engineer,6,89995.0,6-10 yrs
+876,26,Male,Master's,Full Stack Engineer,4,85825.0,3-5 yrs
+877,39,Female,PhD,Software Engineer Manager,13,143814.0,11-20 yrs
+878,49,Male,Master's,Front end Developer,24,174726.0,20+ yrs
+879,42,Female,Bachelor's,Senior Software Engineer,20,150534.0,11-20 yrs
+880,27,Male,Bachelor's,Back end Developer,4,68732.0,3-5 yrs
+881,43,Male,Master's,Full Stack Engineer,21,187951.0,20+ yrs
+882,37,Female,Bachelor's,Senior Project Engineer,13,137336.0,11-20 yrs
+883,51,Male,PhD,Software Engineer Manager,26,191159.0,20+ yrs
+884,29,Female,Master's,Full Stack Engineer,5,102868.0,3-5 yrs
+885,43,Male,Bachelor's,Senior Software Engineer,20,154281.0,11-20 yrs
+886,31,Male,Master's,Back end Developer,8,111535.0,6-10 yrs
+887,30,Female,Master's,Senior Project Engineer,6,107906.0,6-10 yrs
+888,36,Male,Bachelor's,Full Stack Engineer,13,143885.0,11-20 yrs
+889,52,Female,PhD,Software Engineer Manager,27,180958.0,20+ yrs
+890,28,Male,Master's,Senior Software Engineer,6,108607.0,6-10 yrs
+891,49,Male,Bachelor's,Back end Developer,24,178284.0,20+ yrs
+892,27,Female,Master's,Front end Developer,4,75969.0,3-5 yrs
+893,41,Male,Master's,Senior Project Engineer,15,143705.0,11-20 yrs
+894,56,Female,PhD,Software Engineer Manager,31,197354.0,20+ yrs
+895,46,Male,Bachelor's,Senior Software Engineer,22,174324.0,20+ yrs
+896,32,Female,Master's,Full Stack Engineer,8,123781.0,6-10 yrs
+897,38,Male,PhD,Software Engineer Manager,12,141735.0,11-20 yrs
+898,52,Male,Master's,Senior Project Engineer,28,187120.0,20+ yrs
+899,24,Female,Bachelor's,Back end Developer,1,61095.0,0-2 yrs
+900,49,Male,Master's,Full Stack Engineer,22,179045.0,20+ yrs
+901,35,Female,Master's,Senior Software Engineer,10,130355.0,6-10 yrs
+902,31,Male,Bachelor's,Front end Developer,7,103282.0,6-10 yrs
+903,44,Female,PhD,Software Engineer Manager,18,157872.0,11-20 yrs
+904,33,Male,Master's,Senior Project Engineer,10,117314.0,6-10 yrs
+905,54,Male,Bachelor's,Senior Software Engineer,30,186321.0,20+ yrs
+906,33,Female,Master's,Full Stack Engineer,11,129686.0,11-20 yrs
+907,27,Male,High School,Back end Developer,3,68611.0,3-5 yrs
+908,51,Female,Master's,Senior Project Engineer,25,177913.0,20+ yrs
+909,26,Male,Master's,Full Stack Engineer,3,68472.0,3-5 yrs
+910,31,Female,Master's,Senior Software Engineer,6,113065.0,6-10 yrs
+911,35,Male,Bachelor's,Front end Developer,9,125091.0,6-10 yrs
+912,45,Female,PhD,Software Engineer Manager,23,172925.0,20+ yrs
+913,32,Male,Master's,Senior Project Engineer,9,126916.0,6-10 yrs
+914,54,Male,Bachelor's,Full Stack Engineer,27,183417.0,20+ yrs
+915,26,Female,Master's,Front end Developer,4,76898.0,3-5 yrs
+916,26,Female,Bachelor's,Software Engineer,2,65000.0,0-2 yrs
+917,33,Male,Master's,Data Analyst,8,120000.0,6-10 yrs
+918,29,Female,Bachelor's,Product Manager,4,90000.0,3-5 yrs
+919,41,Male,PhD,Data Scientist,15,190000.0,11-20 yrs
+920,35,Female,Master's,Software Engineer,9,140000.0,6-10 yrs
+921,28,Male,Bachelor's,Software Developer,3,75000.0,3-5 yrs
+922,37,Female,Master's,Data Scientist,11,160000.0,11-20 yrs
+923,33,Male,Bachelor's,Product Manager,8,130000.0,6-10 yrs
+924,24,Female,Master's,Software Engineer,2,60000.0,0-2 yrs
+925,46,Male,PhD,Director of Data Science,20,220000.0,11-20 yrs
+926,29,Female,Bachelor's,Software Developer,5,80000.0,3-5 yrs
+927,31,Male,Master's,Data Scientist,7,130000.0,6-10 yrs
+928,27,Female,Bachelor's,Software Engineer,3,65000.0,3-5 yrs
+929,38,Male,PhD,Senior Data Scientist,13,170000.0,11-20 yrs
+930,30,Female,Master's,Product Manager,6,110000.0,6-10 yrs
+931,25,Male,Bachelor's,Front End Developer,2,50000.0,0-2 yrs
+932,44,Male,PhD,Director of Data Science,18,210000.0,11-20 yrs
+933,33,Female,Master's,Data Analyst,8,100000.0,6-10 yrs
+934,22,Male,Bachelor's,Software Engineer,1,50000.0,0-2 yrs
+935,36,Male,Master's,Product Manager,10,160000.0,6-10 yrs
+936,28,Female,Bachelor's,Software Engineer,4,70000.0,3-5 yrs
+937,41,Male,PhD,Senior Data Scientist,16,190000.0,11-20 yrs
+938,34,Female,Master's,Data Scientist,9,140000.0,6-10 yrs
+939,23,Male,Bachelor's,Software Developer,1,45000.0,0-2 yrs
+940,32,Female,Master's,Product Manager,7,120000.0,6-10 yrs
+941,25,Male,Master's,Software Engineer,2,60000.0,0-2 yrs
+942,37,Female,Bachelor's,Data Analyst,11,150000.0,11-20 yrs
+943,28,Male,Bachelor's,Software Engineer,4,70000.0,3-5 yrs
+944,29,Female,Bachelor's,Full Stack Engineer,6,103579.0,6-10 yrs
+945,45,Male,Master's,Software Engineer Manager,19,163780.0,11-20 yrs
+946,36,Male,Bachelor's,Front end Developer,12,137878.0,11-20 yrs
+947,30,Female,Master's,Senior Project Engineer,4,92438.0,3-5 yrs
+948,28,Male,Master's,Full Stack Engineer,5,84181.0,3-5 yrs
+949,46,Female,PhD,Software Engineer Manager,21,174821.0,20+ yrs
+950,34,Male,Bachelor's,Back end Developer,10,126520.0,6-10 yrs
+951,44,Male,Master's,Senior Software Engineer,18,152168.0,11-20 yrs
+952,55,Female,PhD,Software Engineer Manager,29,190543.0,20+ yrs
+953,35,Male,Master's,Full Stack Engineer,9,131547.0,6-10 yrs
+954,54,Male,Bachelor's,Senior Project Engineer,28,192292.0,20+ yrs
+955,23,Female,High School,Back end Developer,1,52807.0,0-2 yrs
+956,46,Male,Master's,Senior Software Engineer,20,174938.0,11-20 yrs
+957,33,Female,Bachelor's,Full Stack Engineer,8,124071.0,6-10 yrs
+958,26,Male,Master's,Front end Developer,3,73640.0,3-5 yrs
+959,43,Female,PhD,Software Engineer Manager,19,156486.0,11-20 yrs
+960,36,Male,Master's,Full Stack Engineer,11,138859.0,11-20 yrs
+961,23,Female,Bachelor's,Senior Project Engineer,0,52831.0,0-2 yrs
+962,49,Male,Master's,Software Engineer Manager,23,182392.0,20+ yrs
+963,35,Female,Master's,Full Stack Engineer,11,151078.0,11-20 yrs
+964,31,Male,Bachelor's,Back end Developer,8,100679.0,6-10 yrs
+965,54,Other,High School,Senior Software Engineer,29,158966.0,20+ yrs
+966,43,Male,Master's,Full Stack Engineer,20,167924.0,11-20 yrs
+967,33,Female,Master's,Senior Project Engineer,10,113334.0,6-10 yrs
+968,52,Female,PhD,Software Engineer Manager,29,194778.0,20+ yrs
+969,28,Male,Bachelor's,Full Stack Engineer,4,77606.0,3-5 yrs
+970,36,Female,Master's,Senior Software Engineer,13,140010.0,11-20 yrs
+971,43,Male,Bachelor's,Senior Project Engineer,20,142421.0,11-20 yrs
+972,50,Female,Master's,Full Stack Engineer,24,192756.0,20+ yrs
+973,24,Male,PhD,Software Engineer Manager,1,106686.0,0-2 yrs
+974,52,Male,Master's,Senior Software Engineer,27,186794.0,20+ yrs
+975,46,Female,Bachelor's,Back end Developer,19,150729.0,11-20 yrs
+976,38,Male,Master's,Full Stack Engineer,15,171652.0,11-20 yrs
+977,29,Male,Bachelor's,Senior Project Engineer,6,88552.0,6-10 yrs
+978,33,Female,Master's,Front end Developer,9,119918.0,6-10 yrs
+979,47,Male,PhD,Software Engineer Manager,21,174985.0,20+ yrs
+980,45,Female,Master's,Senior Software Engineer,23,174336.0,20+ yrs
+981,28,Male,Bachelor's,Back end Developer,4,72389.0,3-5 yrs
+982,42,Female,Master's,Full Stack Engineer,14,163978.0,11-20 yrs
+983,46,Male,Bachelor's,Senior Project Engineer,25,166958.0,20+ yrs
+984,38,Female,PhD,Software Engineer Manager,15,145052.0,11-20 yrs
+985,54,Male,Master's,Senior Software Engineer,32,195270.0,20+ yrs
+986,33,Female,Master's,Full Stack Engineer,8,122970.0,6-10 yrs
+987,27,Male,High School,Back end Developer,4,80247.0,3-5 yrs
+988,50,Female,Bachelor's,Senior Project Engineer,25,177862.0,20+ yrs
+989,26,Male,Master's,Full Stack Engineer,4,91062.0,3-5 yrs
+990,31,Female,Master's,Senior Software Engineer,6,114290.0,6-10 yrs
+991,35,Male,Bachelor's,Front end Developer,10,128999.0,6-10 yrs
+992,44,Female,PhD,Software Engineer Manager,18,162454.0,11-20 yrs
+993,32,Male,Master's,Senior Project Engineer,8,122354.0,6-10 yrs
+994,54,Male,Bachelor's,Full Stack Engineer,25,179756.0,20+ yrs
+995,26,Female,Master's,Front end Developer,3,73218.0,3-5 yrs
+996,48,Female,Master's,Senior Software Engineer,24,184480.0,20+ yrs
+997,38,Male,Bachelor's,Back end Developer,12,132442.0,11-20 yrs
+998,30,Female,Master's,Full Stack Engineer,5,102828.0,3-5 yrs
+999,40,Male,Master's,Software Engineer Manager,16,150301.0,11-20 yrs
+1000,45,Female,Bachelor's,Senior Project Engineer,22,171468.0,20+ yrs
+1001,36,Male,Master's,Full Stack Engineer,13,147326.0,11-20 yrs
+1002,52,Male,PhD,Software Engineer Manager,26,185982.0,20+ yrs
+1003,31,Female,Bachelor's,Senior Software Engineer,7,108267.0,6-10 yrs
+1004,26,Male,Master's,Full Stack Engineer,4,91397.0,3-5 yrs
+1005,30,Female,Master's,Senior Project Engineer,5,100867.0,3-5 yrs
+1006,24,Male,Bachelor's,Back end Developer,2,64182.0,0-2 yrs
+1007,45,Male,Master's,Senior Software Engineer,22,182506.0,20+ yrs
+1008,33,Female,Master's,Full Stack Engineer,9,136986.0,6-10 yrs
+1009,38,Male,Bachelor's,Front end Developer,11,136662.0,11-20 yrs
+1010,54,Female,PhD,Software Engineer Manager,32,191510.0,20+ yrs
+1011,42,Male,Master's,Full Stack Engineer,19,177347.0,11-20 yrs
+1012,28,Female,Bachelor's,Senior Project Engineer,3,70397.0,3-5 yrs
+1013,34,Male,Master's,Software Engineer Manager,9,146075.0,6-10 yrs
+1014,46,Female,Bachelor's,Back end Developer,18,155795.0,11-20 yrs
+1015,35,Male,Master's,Full Stack Engineer,9,132638.0,6-10 yrs
+1016,49,Female,PhD,Software Engineer Manager,22,178684.0,20+ yrs
+1017,32,Male,Bachelor's,Senior Software Engineer,7,106218.0,6-10 yrs
+1018,54,Male,Master's,Full Stack Engineer,28,191239.0,20+ yrs
+1019,26,Female,Master's,Front end Developer,2,65840.0,0-2 yrs
+1020,23,Male,PhD,Software Engineer Manager,0,52779.0,0-2 yrs
+1021,48,Female,Master's,Senior Software Engineer,23,185038.0,20+ yrs
+1022,38,Male,Bachelor's,Back end Developer,14,136449.0,11-20 yrs
+1023,30,Female,Master's,Full Stack Engineer,6,110707.0,6-10 yrs
+1024,40,Male,Master's,Software Engineer Manager,17,151670.0,11-20 yrs
+1025,45,Female,Bachelor's,Senior Project Engineer,21,167015.0,20+ yrs
+1026,36,Male,Master's,Full Stack Engineer,13,146508.0,11-20 yrs
+1027,52,Male,PhD,Software Engineer Manager,27,190596.0,20+ yrs
+1028,31,Female,Bachelor's,Senior Software Engineer,6,104378.0,6-10 yrs
+1029,26,Male,Master's,Full Stack Engineer,3,70216.0,3-5 yrs
+1030,30,Female,Master's,Senior Project Engineer,5,101733.0,3-5 yrs
+1031,24,Male,Bachelor's,Back end Developer,1,55935.0,0-2 yrs
+1032,45,Male,Master's,Senior Software Engineer,21,180367.0,20+ yrs
+1033,33,Female,Master's,Full Stack Engineer,9,135596.0,6-10 yrs
+1034,38,Male,Bachelor's,Front end Developer,11,136062.0,11-20 yrs
+1035,54,Female,PhD,Software Engineer Manager,32,191267.0,20+ yrs
+1036,26,Male,Master's,Full Stack Engineer,3,91397.0,3-5 yrs
+1037,28,Female,Bachelor's,Senior Project Engineer,4,82944.0,3-5 yrs
+1038,48,Male,PhD,Software Engineer Manager,23,188288.0,20+ yrs
+1039,36,Female,Master's,Senior Software Engineer,14,141090.0,11-20 yrs
+1040,43,Male,Bachelor's,Full Stack Engineer,19,152726.0,11-20 yrs
+1041,33,Female,Master's,Back end Developer,9,124141.0,6-10 yrs
+1042,26,Male,Bachelor's,Front end Developer,3,67556.0,3-5 yrs
+1043,50,Female,Master's,Senior Project Engineer,22,182768.0,20+ yrs
+1044,41,Male,PhD,Software Engineer Manager,15,148727.0,11-20 yrs
+1045,29,Female,Bachelor's,Full Stack Engineer,6,91903.0,6-10 yrs
+1046,38,Male,Master's,Senior Software Engineer,14,147708.0,11-20 yrs
+1047,48,Female,Bachelor's,Senior Project Engineer,21,163209.0,20+ yrs
+1048,31,Male,Master's,Full Stack Engineer,8,120288.0,6-10 yrs
+1049,45,Male,PhD,Software Engineer Manager,21,170226.0,20+ yrs
+1050,35,Female,Master's,Senior Software Engineer,11,134979.0,11-20 yrs
+1051,42,Male,Bachelor's,Back end Developer,16,137489.0,11-20 yrs
+1052,27,Female,Master's,Full Stack Engineer,4,83577.0,3-5 yrs
+1053,33,Male,Bachelor's,Front end Developer,9,117904.0,6-10 yrs
+1054,36,Female,Master's,Senior Project Engineer,11,134482.0,11-20 yrs
+1055,54,Male,PhD,Software Engineer Manager,30,184660.0,20+ yrs
+1056,30,Female,Bachelor's,Senior Software Engineer,5,100151.0,3-5 yrs
+1057,26,Male,Master's,Full Stack Engineer,3,88678.0,3-5 yrs
+1058,45,Female,PhD,Senior Project Engineer,21,181285.0,20+ yrs
+1059,38,Male,Master's,Software Engineer Manager,16,154990.0,11-20 yrs
+1060,31,Female,Bachelor's,Full Stack Engineer,7,108204.0,6-10 yrs
+1061,42,Male,Master's,Senior Software Engineer,19,175684.0,11-20 yrs
+1062,28,Female,Bachelor's,Back end Developer,5,77766.0,3-5 yrs
+1063,48,Male,PhD,Software Engineer Manager,24,192211.0,20+ yrs
+1064,36,Female,Master's,Full Stack Engineer,13,144647.0,11-20 yrs
+1065,43,Male,Bachelor's,Senior Project Engineer,20,162231.0,11-20 yrs
+1066,33,Female,Master's,Front end Developer,9,121120.0,6-10 yrs
+1067,26,Male,Bachelor's,Full Stack Engineer,4,79652.0,3-5 yrs
+1068,50,Female,Master's,Senior Software Engineer,21,177002.0,20+ yrs
+1069,27,Male,Master's,Back end Developer,5,87584.0,3-5 yrs
+1070,38,Female,Bachelor's,Senior Project Engineer,13,131860.0,11-20 yrs
+1071,54,Male,PhD,Software Engineer Manager,28,182013.0,20+ yrs
+1072,31,Female,Master's,Full Stack Engineer,7,108799.0,6-10 yrs
+1073,36,Male,Bachelor's,Senior Software Engineer,13,135378.0,11-20 yrs
+1074,45,Female,Master's,Software Engineer Manager,22,183530.0,20+ yrs
+1075,42,Male,Bachelor's,Back end Developer,18,150901.0,11-20 yrs
+1076,28,Female,Master's,Full Stack Engineer,4,82697.0,3-5 yrs
+1077,48,Male,PhD,Senior Software Engineer,26,194638.0,20+ yrs
+1078,36,Female,Master's,Senior Project Engineer,12,130356.0,11-20 yrs
+1079,43,Male,Bachelor's,Full Stack Engineer,18,152560.0,11-20 yrs
+1080,33,Female,Master's,Front end Developer,9,121432.0,6-10 yrs
+1081,26,Male,Bachelor's,Back end Developer,2,63789.0,0-2 yrs
+1082,50,Female,Master's,Senior Software Engineer,23,183690.0,20+ yrs
+1083,41,Male,PhD,Software Engineer Manager,16,151310.0,11-20 yrs
+1084,29,Female,Bachelor's,Full Stack Engineer,6,100358.0,6-10 yrs
+1085,38,Male,Master's,Senior Software Engineer,15,148437.0,11-20 yrs
+1086,48,Female,Bachelor's,Senior Project Engineer,22,168691.0,20+ yrs
+1087,28,Male,Bachelor's,Software Developer,1,50000.0,0-2 yrs
+1088,32,Female,Master's,Product Manager,5,100000.0,3-5 yrs
+1089,26,Male,Bachelor's,Software Engineer,2,60000.0,0-2 yrs
+1090,33,Female,Master's,Data Analyst,6,90000.0,6-10 yrs
+1091,29,Male,Bachelor's,Front End Developer,3,70000.0,3-5 yrs
+1092,42,Male,PhD,Director of Data Science,12,170000.0,11-20 yrs
+1093,36,Female,Master's,Data Scientist,8,130000.0,6-10 yrs
+1094,27,Male,Bachelor's,Software Developer,1,50000.0,0-2 yrs
+1095,34,Female,Master's,Product Manager,7,120000.0,6-10 yrs
+1096,29,Male,Bachelor's,Software Engineer,4,80000.0,3-5 yrs
+1097,41,Female,PhD,Senior Data Scientist,16,200000.0,11-20 yrs
+1098,36,Male,PhD,Director of Data Science,12,170000.0,11-20 yrs
+1099,30,Female,Bachelor's,Software Engineer,4,80000.0,3-5 yrs
+1100,28,Male,Master's,Web Developer,5,80000.0,3-5 yrs
+1101,30,Female,Bachelor's,Junior HR Coordinator,4,60000.0,3-5 yrs
+1102,25,Male,Bachelor's,Junior Web Developer,2,50000.0,0-2 yrs
+1103,45,Female,Master's,Senior Human Resources Manager,18,160000.0,11-20 yrs
+1104,33,Male,PhD,Director of HR,9,120000.0,6-10 yrs
+1105,22,Female,High School,Junior HR Generalist,0,40000.0,0-2 yrs
+1106,36,Male,Bachelor's,Web Developer,10,100000.0,6-10 yrs
+1107,29,Female,Master's,Senior HR Generalist,4,75000.0,3-5 yrs
+1108,42,Male,PhD,Director of HR,16,140000.0,11-20 yrs
+1109,27,Female,Bachelor's,Junior HR Coordinator,2,50000.0,0-2 yrs
+1110,38,Male,Master's,Senior Human Resources Manager,11,110000.0,11-20 yrs
+1111,24,Female,Bachelor's,Web Developer,1,45000.0,0-2 yrs
+1112,31,Male,High School,Junior Web Developer,4,55000.0,3-5 yrs
+1113,39,Female,PhD,Director of HR,13,130000.0,11-20 yrs
+1114,26,Male,Bachelor's,Junior HR Generalist,2,50000.0,0-2 yrs
+1115,32,Female,Master's,Senior HR Generalist,7,80000.0,6-10 yrs
+1116,32,Male,Bachelor's,Junior Web Developer,2,45000.0,0-2 yrs
+1117,24,Female,High School,Junior HR Generalist,1,32000.0,0-2 yrs
+1118,45,Male,PhD,Senior Human Resources Manager,12,120000.0,11-20 yrs
+1119,29,Female,Master's,Web Developer,4,65000.0,3-5 yrs
+1120,38,Male,Bachelor's,Senior HR Generalist,8,95000.0,6-10 yrs
+1121,27,Female,Master's,Director of HR,5,80000.0,3-5 yrs
+1122,31,Female,High School,Junior HR Coordinator,3,38000.0,3-5 yrs
+1123,42,Male,Master's,Web Developer,10,110000.0,6-10 yrs
+1124,26,Female,Bachelor's,Junior Web Developer,2,45000.0,0-2 yrs
+1125,36,Male,Master's,Senior HR Generalist,7,89000.0,6-10 yrs
+1126,28,Male,High School,Junior HR Generalist,1,32000.0,0-2 yrs
+1127,33,Female,Bachelor's,Web Developer,5,70000.0,3-5 yrs
+1128,46,Male,PhD,Director of HR,15,150000.0,11-20 yrs
+1129,25,Female,Bachelor's,Junior Web Developer,1,40000.0,0-2 yrs
+1130,37,Female,Master's,Senior Human Resources Manager,9,105000.0,6-10 yrs
+1131,30,Male,Master's,Web Developer,4,65000.0,3-5 yrs
+1132,43,Female,PhD,Director of HR,14,140000.0,11-20 yrs
+1133,34,Male,Bachelor's,Junior Web Developer,3,50000.0,3-5 yrs
+1134,26,Female,High School,Junior HR Generalist,2,35000.0,0-2 yrs
+1135,41,Male,Master's,Senior HR Generalist,11,115000.0,11-20 yrs
+1136,29,Female,Master's,Web Developer,5,70000.0,3-5 yrs
+1137,35,Male,Bachelor's,Web Developer,6,80000.0,6-10 yrs
+1138,27,Female,High School,Junior HR Coordinator,1,30000.0,0-2 yrs
+1139,40,Male,PhD,Director of HR,13,135000.0,11-20 yrs
+1140,23,Female,Bachelor's,Junior Web Developer,1,40000.0,0-2 yrs
+1141,39,Male,Master's,Senior HR Generalist,10,105000.0,6-10 yrs
+1142,31,Male,High School,Junior HR Generalist,2,35000.0,0-2 yrs
+1143,44,Female,PhD,Senior Human Resources Manager,12,120000.0,11-20 yrs
+1144,28,Male,Master's,Web Developer,3,55000.0,3-5 yrs
+1145,32,Female,Bachelor's,Junior Web Developer,2,45000.0,0-2 yrs
+1146,45,Male,Master's,Director of HR,14,140000.0,11-20 yrs
+1147,26,Female,Bachelor's,Web Developer,3,55000.0,3-5 yrs
+1148,38,Male,PhD,Senior Human Resources Manager,11,115000.0,11-20 yrs
+1149,27,Female,Master's,Senior HR Generalist,4,70000.0,3-5 yrs
+1150,33,Male,High School,Junior HR Coordinator,3,38000.0,3-5 yrs
+1151,42,Female,Master's,Director of HR,13,135000.0,11-20 yrs
+1152,29,Male,Bachelor's,Junior Web Developer,2,45000.0,0-2 yrs
+1153,36,Female,Master's,Web Developer,7,85000.0,6-10 yrs
+1154,30,Male,High School,Junior HR Generalist,1,32000.0,0-2 yrs
+1155,43,Female,PhD,Senior Human Resources Manager,15,150000.0,11-20 yrs
+1156,34,Male,Bachelor's,Web Developer,4,65000.0,3-5 yrs
+1157,25,Female,Master's,Junior HR Generalist,1,32000.0,0-2 yrs
+1158,37,Male,PhD,Director of HR,12,120000.0,11-20 yrs
+1159,24,Female,Bachelor's,Junior Web Developer,1,40000.0,0-2 yrs
+1160,39,Male,Master's,Senior HR Generalist,9,95000.0,6-10 yrs
+1161,44,Female,PhD,Director of HR,14,140000.0,11-20 yrs
+1162,28,Male,Bachelor's,Web Developer,3,55000.0,3-5 yrs
+1163,32,Female,Master's,Senior Human Resources Manager,6,80000.0,6-10 yrs
+1164,45,Male,PhD,Director of HR,13,135000.0,11-20 yrs
+1165,38,Male,Master's,Senior HR Generalist,8,95000.0,6-10 yrs
+1166,27,Female,High School,Junior HR Generalist,1,32000.0,0-2 yrs
+1167,33,Male,Bachelor's,Web Developer,5,70000.0,3-5 yrs
+1168,42,Female,Master's,Director of HR,12,120000.0,11-20 yrs
+1169,29,Male,Master's,Senior Human Resources Manager,4,70000.0,3-5 yrs
+1170,30,Male,High School,Junior HR Coordinator,2,33000.0,0-2 yrs
+1171,37,Male,PhD,Director of HR,11,115000.0,11-20 yrs
+1172,24,Female,Bachelor's,Web Developer,1,40000.0,0-2 yrs
+1173,44,Female,PhD,Director of HR,13,135000.0,11-20 yrs
+1174,28,Male,Bachelor's,Web Developer,4,65000.0,3-5 yrs
+1175,45,Male,PhD,Director of HR,14,140000.0,11-20 yrs
+1176,28,Male,Bachelor's,Software Engineer,3,60000.0,3-5 yrs
+1177,37,Female,Master's,Marketing Manager,9,100000.0,6-10 yrs
+1178,43,Male,PhD,Data Scientist,15,150000.0,11-20 yrs
+1179,31,Female,Bachelor's,Human Resources Coordinator,4,55000.0,3-5 yrs
+1180,24,Male,High School,Junior Sales Associate,1,30000.0,0-2 yrs
+1181,29,Female,Master's,Software Developer,5,70000.0,3-5 yrs
+1182,35,Male,Bachelor's,Operations Manager,8,90000.0,6-10 yrs
+1183,26,Female,Master's,Marketing Coordinator,2,40000.0,0-2 yrs
+1184,42,Male,PhD,Data Scientist,12,130000.0,11-20 yrs
+1185,34,Female,Bachelor's,Human Resources Manager,6,75000.0,6-10 yrs
+1186,27,Male,High School,Junior Sales Associate,2,35000.0,0-2 yrs
+1187,38,Female,Master's,Marketing Manager,10,110000.0,6-10 yrs
+1188,30,Male,Bachelor's,Software Engineer,4,65000.0,3-5 yrs
+1189,45,Male,PhD,Data Scientist,18,180000.0,11-20 yrs
+1190,25,Female,Bachelor's,Junior Software Developer,1,35000.0,0-2 yrs
+1191,40,Female,Master's,Human Resources Manager,11,120000.0,11-20 yrs
+1192,33,Male,Bachelor's,Operations Manager,6,75000.0,6-10 yrs
+1193,29,Female,High School,Junior Sales Associate,1,30000.0,0-2 yrs
+1194,44,Male,PhD,Data Scientist,16,160000.0,11-20 yrs
+1195,26,Male,Bachelor's,Software Developer,3,60000.0,3-5 yrs
+1196,36,Female,Master's,Marketing Coordinator,8,85000.0,6-10 yrs
+1197,31,Male,Bachelor's,Operations Manager,5,70000.0,3-5 yrs
+1198,27,Female,Master's,Human Resources Coordinator,3,50000.0,3-5 yrs
+1199,42,Male,PhD,Data Scientist,13,140000.0,11-20 yrs
+1200,28,Male,High School,Junior Sales Associate,2,35000.0,0-2 yrs
+1201,39,Female,Master's,Marketing Manager,10,110000.0,6-10 yrs
+1202,31,Male,Bachelor's,Software Engineer,4,65000.0,3-5 yrs
+1203,27,Male,Bachelor's,Software Engineer,3,60000.0,3-5 yrs
+1204,38,Female,Master's,Marketing Manager,9,100000.0,6-10 yrs
+1205,44,Male,PhD,Data Scientist,15,150000.0,11-20 yrs
+1206,30,Female,Bachelor's,Human Resources Coordinator,4,55000.0,3-5 yrs
+1207,23,Male,High School,Junior Sales Associate,1,30000.0,0-2 yrs
+1208,28,Female,Master's,Software Developer,5,70000.0,3-5 yrs
+1209,34,Male,Bachelor's,Operations Manager,8,90000.0,6-10 yrs
+1210,25,Female,Master's,Marketing Coordinator,2,40000.0,0-2 yrs
+1211,41,Male,PhD,Data Scientist,12,130000.0,11-20 yrs
+1212,33,Female,Bachelor's,Human Resources Manager,6,75000.0,6-10 yrs
+1213,26,Male,High School,Junior Sales Associate,2,35000.0,0-2 yrs
+1214,37,Female,Master's,Marketing Manager,10,110000.0,6-10 yrs
+1215,29,Male,Bachelor's,Software Engineer,4,65000.0,3-5 yrs
+1216,46,Male,PhD,Data Scientist,18,180000.0,11-20 yrs
+1217,26,Female,Bachelor's,Junior Software Developer,1,35000.0,0-2 yrs
+1218,39,Female,Master's,Human Resources Manager,11,120000.0,11-20 yrs
+1219,32,Male,Bachelor's,Operations Manager,6,75000.0,6-10 yrs
+1220,28,Female,High School,Junior Sales Associate,1,30000.0,0-2 yrs
+1221,43,Male,PhD,Data Scientist,16,160000.0,11-20 yrs
+1222,27,Male,Bachelor's,Software Developer,3,60000.0,3-5 yrs
+1223,35,Female,Master's,Marketing Coordinator,8,85000.0,6-10 yrs
+1224,30,Male,Bachelor's,Operations Manager,5,70000.0,3-5 yrs
+1225,26,Female,Master's,Human Resources Coordinator,3,50000.0,3-5 yrs
+1226,41,Male,PhD,Data Scientist,13,140000.0,11-20 yrs
+1227,24,Male,Bachelor's,Software Engineer,2,55000.0,0-2 yrs
+1228,32,Female,Master's,Marketing Manager,7,90000.0,6-10 yrs
+1229,45,Male,PhD,Data Scientist,16,160000.0,11-20 yrs
+1230,28,Female,Bachelor's,Human Resources Coordinator,4,60000.0,3-5 yrs
+1231,22,Male,High School,Junior Sales Associate,1,25000.0,0-2 yrs
+1232,36,Male,Bachelor's,Operations Manager,8,100000.0,6-10 yrs
+1233,27,Female,Bachelor's,Marketing Coordinator,3,45000.0,3-5 yrs
+1234,42,Male,PhD,Data Scientist,14,140000.0,11-20 yrs
+1235,25,Male,High School,Junior Sales Associate,2,30000.0,0-2 yrs
+1236,39,Female,Master's,Marketing Manager,11,120000.0,11-20 yrs
+1237,47,Male,PhD,Data Scientist,19,190000.0,11-20 yrs
+1238,40,Female,Master's,Human Resources Manager,12,130000.0,11-20 yrs
+1239,33,Male,Bachelor's,Operations Manager,7,85000.0,6-10 yrs
+1240,29,Female,High School,Junior Sales Associate,1,25000.0,0-2 yrs
+1241,28,Male,Bachelor's,Software Developer,3,60000.0,3-5 yrs
+1242,36,Female,Master's,Marketing Coordinator,9,100000.0,6-10 yrs
+1243,31,Male,Bachelor's,Operations Manager,6,75000.0,6-10 yrs
+1244,26,Male,High School,Junior Sales Associate,2,30000.0,0-2 yrs
+1245,31,Male,Bachelor's,Software Engineer,5,80000.0,3-5 yrs
+1246,27,Female,Master's,Marketing Manager,3,60000.0,3-5 yrs
+1247,38,Male,PhD,Data Scientist,12,130000.0,11-20 yrs
+1248,29,Female,Bachelor's,Human Resources Coordinator,2,45000.0,0-2 yrs
+1249,23,Male,High School,Junior Sales Associate,1,25000.0,0-2 yrs
+1250,32,Female,Master's,Software Developer,7,90000.0,6-10 yrs
+1251,44,Male,Bachelor's,Operations Manager,18,170000.0,11-20 yrs
+1252,26,Female,Bachelor's,Marketing Coordinator,2,40000.0,0-2 yrs
+1253,40,Male,PhD,Data Scientist,15,150000.0,11-20 yrs
+1254,33,Female,Bachelor's,Human Resources Manager,8,95000.0,6-10 yrs
+1255,24,Male,High School,Junior Sales Associate,1,25000.0,0-2 yrs
+1256,35,Female,Master's,Marketing Manager,10,110000.0,6-10 yrs
+1257,29,Male,Bachelor's,Software Engineer,4,70000.0,3-5 yrs
+1258,49,Male,PhD,Data Scientist,22,220000.0,20+ yrs
+1259,26,Female,Bachelor's,Junior Software Developer,2,35000.0,0-2 yrs
+1260,41,Female,Master's,Human Resources Manager,13,140000.0,11-20 yrs
+1261,36,Male,Bachelor's,Operations Manager,9,110000.0,6-10 yrs
+1262,28,Female,High School,Junior Sales Associate,1,25000.0,0-2 yrs
+1263,29,Male,Bachelor's,Software Developer,5,80000.0,3-5 yrs
+1264,39,Female,Master's,Marketing Coordinator,11,120000.0,11-20 yrs
+1265,32,Male,Bachelor's,Operations Manager,6,90000.0,6-10 yrs
+1266,28,Female,Master's,Human Resources Coordinator,2,45000.0,0-2 yrs
+1267,34,Male,Bachelor's,Software Engineer,6,85000.0,6-10 yrs
+1268,31,Female,Master's,Marketing Manager,4,62000.0,3-5 yrs
+1269,41,Male,PhD,Data Scientist,13,138000.0,11-20 yrs
+1270,27,Female,Bachelor's,Human Resources Coordinator,2,47000.0,0-2 yrs
+1271,25,Male,High School,Junior Sales Associate,1,26000.0,0-2 yrs
+1272,33,Female,Master's,Software Developer,8,95000.0,6-10 yrs
+1273,45,Male,Bachelor's,Operations Manager,19,174000.0,11-20 yrs
+1274,28,Female,Bachelor's,Marketing Coordinator,2,41000.0,0-2 yrs
+1275,42,Male,PhD,Data Scientist,16,162000.0,11-20 yrs
+1276,34,Female,Bachelor's,Human Resources Manager,9,99000.0,6-10 yrs
+1277,23,Male,High School,Junior Sales Associate,1,26000.0,0-2 yrs
+1278,36,Female,Master's,Marketing Manager,11,117000.0,11-20 yrs
+1279,30,Male,Bachelor's,Software Engineer,5,75000.0,3-5 yrs
+1280,50,Male,PhD,Data Scientist,23,225000.0,20+ yrs
+1281,27,Female,Bachelor's,Junior Software Developer,2,36000.0,0-2 yrs
+1282,43,Female,Master's,Human Resources Manager,14,146000.0,11-20 yrs
+1283,37,Male,Bachelor's,Operations Manager,10,113000.0,6-10 yrs
+1284,29,Female,High School,Junior Sales Associate,1,26000.0,0-2 yrs
+1285,44,Male,PhD,Data Scientist,17,168000.0,11-20 yrs
+1286,30,Male,Bachelor's,Software Developer,6,85000.0,6-10 yrs
+1287,40,Female,Master's,Marketing Coordinator,12,122000.0,11-20 yrs
+1288,33,Male,Bachelor's,Operations Manager,7,96000.0,6-10 yrs
+1289,29,Female,Master's,Human Resources Coordinator,3,49000.0,3-5 yrs
+1290,43,Male,PhD,Data Scientist,16,162000.0,11-20 yrs
+1291,32,Female,Master's,Software Developer,8,95000.0,6-10 yrs
+1292,24,Male,High School,Junior Sales Associate,1,26000.0,0-2 yrs
+1293,31,Female,Master's,Marketing Manager,5,68000.0,3-5 yrs
+1294,39,Male,Bachelor's,Operations Manager,13,127000.0,11-20 yrs
+1295,25,Female,Bachelor's,Human Resources Coordinator,2,47000.0,0-2 yrs
+1296,41,Male,PhD,Data Scientist,15,155000.0,11-20 yrs
+1297,35,Female,Bachelor's,Human Resources Manager,8,92000.0,6-10 yrs
+1298,26,Male,High School,Junior Sales Associate,1,26000.0,0-2 yrs
+1299,37,Female,Master's,Marketing Manager,12,125000.0,11-20 yrs
+1300,29,Male,Bachelor's,Software Engineer,4,71000.0,3-5 yrs
+1301,51,Male,PhD,Data Scientist,24,240000.0,20+ yrs
+1302,28,Female,Bachelor's,Junior Software Developer,2,36000.0,0-2 yrs
+1303,44,Female,Master's,Human Resources Manager,15,152000.0,11-20 yrs
+1304,38,Male,Bachelor's,Operations Manager,11,119000.0,11-20 yrs
+1305,30,Female,High School,Junior Sales Associate,1,26000.0,0-2 yrs
+1306,45,Male,PhD,Data Scientist,19,190000.0,11-20 yrs
+1307,31,Male,Bachelor's,Software Developer,6,85000.0,6-10 yrs
+1308,41,Female,Master's,Marketing Coordinator,13,131000.0,11-20 yrs
+1309,34,Male,Bachelor's,Operations Manager,8,101000.0,6-10 yrs
+1310,30,Female,Master's,Human Resources Coordinator,3,49000.0,3-5 yrs
+1311,44,Male,PhD,Data Scientist,18,182000.0,11-20 yrs
+1312,27,Male,Bachelor's,Software Developer,3,62000.0,3-5 yrs
+1313,42,Female,Master's,Marketing Manager,16,137000.0,11-20 yrs
+1314,35,Male,PhD,Data Scientist,9,112000.0,6-10 yrs
+1315,33,Male,High School,Junior Sales Associate,1,25000.0,0-2 yrs
+1316,36,Female,Bachelor's,Operations Manager,7,91000.0,6-10 yrs
+1317,43,Male,PhD,Data Scientist,17,179000.0,11-20 yrs
+1318,31,Female,Bachelor's,Software Engineer,5,74000.0,3-5 yrs
+1319,49,Male,Master's,Marketing Manager,23,228000.0,20+ yrs
+1320,28,Female,Bachelor's,Junior Software Developer,2,37000.0,0-2 yrs
+1321,45,Female,PhD,Data Scientist,19,193000.0,11-20 yrs
+1322,30,Female,High School,Junior Sales Associate,1,25000.0,0-2 yrs
+1323,45,Male,Master's,Marketing Manager,20,204000.0,11-20 yrs
+1324,27,Female,Bachelor's,Software Developer,3,61000.0,3-5 yrs
+1325,41,Male,PhD,Data Scientist,15,157000.0,11-20 yrs
+1326,35,Female,Master's,Human Resources Manager,8,92000.0,6-10 yrs
+1327,26,Male,Bachelor's,Software Engineer,1,52000.0,0-2 yrs
+1328,30,Female,Bachelor's,Marketing Coordinator,4,58000.0,3-5 yrs
+1329,48,Male,PhD,Data Scientist,22,219000.0,20+ yrs
+1330,32,Female,Master's,Marketing Manager,6,77000.0,6-10 yrs
+1331,34,Male,Bachelor's,Operations Manager,8,104000.0,6-10 yrs
+1332,31,Female,High School,Junior Sales Associate,1,25000.0,0-2 yrs
+1333,44,Female,PhD,Data Scientist,18,183000.0,11-20 yrs
+1334,31,Female,Master's,Director of HR,6,95000.0,6-10 yrs
+1335,28,Male,Bachelor's,Junior Web Developer,2,45000.0,0-2 yrs
+1336,29,Female,Master's,Senior HR Generalist,4,70000.0,3-5 yrs
+1337,35,Male,PhD,Senior Human Resources Manager,10,110000.0,6-10 yrs
+1338,26,Female,High School,Web Developer,1,35000.0,0-2 yrs
+1339,32,Male,Bachelor's,Junior HR Generalist,5,60000.0,3-5 yrs
+1340,27,Female,Master's,Web Developer,2,50000.0,0-2 yrs
+1341,39,Male,Master's,Director of HR,12,120000.0,11-20 yrs
+1342,23,Female,Bachelor's,Junior HR Generalist,1,32000.0,0-2 yrs
+1343,30,Male,Bachelor's,Web Developer,4,65000.0,3-5 yrs
+1344,26,Female,Bachelor's,Junior HR Coordinator,1,35000.0,0-2 yrs
+1345,42,Male,PhD,Senior Human Resources Manager,14,130000.0,11-20 yrs
+1346,34,Female,Master's,Director of HR,9,95000.0,6-10 yrs
+1347,28,Male,High School,Juniour HR Generalist,2,43000.0,0-2 yrs
+1348,29,Male,Bachelor's,Web Developer,3,60000.0,3-5 yrs
+1349,35,Female,Master's,Senior HR Generalist,8,80000.0,6-10 yrs
+1350,26,Male,Master's,Junior Web Developer,2,48000.0,0-2 yrs
+1351,40,Female,PhD,Director of HR,13,125000.0,11-20 yrs
+1352,34,Male,Bachelor's,Web Developer,7,85000.0,6-10 yrs
+1353,26,Female,Bachelor's,Junior HR Generalist,2,42000.0,0-2 yrs
+1354,29,Male,Master's,Senior HR Generalist,4,70000.0,3-5 yrs
+1355,25,Female,High School,Juniour HR Coordinator,1,32000.0,0-2 yrs
+1356,33,Male,Master's,Web Developer,6,80000.0,6-10 yrs
+1357,27,Female,Bachelor's,Junior HR Generalist,2,42000.0,0-2 yrs
+1358,31,Male,PhD,Senior Human Resources Manager,7,90000.0,6-10 yrs
+1359,24,Male,Bachelor's,Junior Web Developer,1,40000.0,0-2 yrs
+1360,42,Female,Master's,Senior HR Generalist,12,110000.0,11-20 yrs
+1361,34,Male,Master's,Director of HR,10,105000.0,6-10 yrs
+1362,28,Female,Bachelor's,Junior HR Generalist,3,50000.0,3-5 yrs
+1363,33,Male,PhD,Director of HR,8,95000.0,6-10 yrs
+1364,29,Female,Bachelor's,Web Developer,3,60000.0,3-5 yrs
+1365,25,Male,High School,Junior HR Generalist,2,40000.0,0-2 yrs
+1366,26,Female,Master's,Senior HR Generalist,2,55000.0,0-2 yrs
+1367,30,Male,Bachelor's,Web Developer,5,70000.0,3-5 yrs
+1368,24,Female,High School,Juniour HR Coordinator,1,32000.0,0-2 yrs
+1369,31,Male,Master's,Director of HR,7,90000.0,6-10 yrs
+1370,27,Female,Bachelor's,Web Developer,2,50000.0,0-2 yrs
+1371,26,Female,Bachelor's,Junior HR Generalist,1,32000.0,0-2 yrs
+1372,32,Male,Master's,Web Developer,6,80000.0,6-10 yrs
+1373,25,Male,High School,Web Developer,2,45000.0,0-2 yrs
+1374,33,Female,Bachelor's,Junior HR Generalist,7,65000.0,6-10 yrs
+1375,27,Male,Master's,Web Developer,2,50000.0,0-2 yrs
+1376,28,Female,Bachelor's,Junior HR Coordinator,3,45000.0,3-5 yrs
+1377,34,Male,PhD,Director of HR,9,95000.0,6-10 yrs
+1378,30,Female,Bachelor's,Web Developer,4,65000.0,3-5 yrs
+1379,26,Male,Bachelor's,Junior HR Coordinator,2,38000.0,0-2 yrs
+1380,42,Female,Master's,Senior Human Resources Manager,13,125000.0,11-20 yrs
+1381,34,Male,Master's,Web Developer,8,90000.0,6-10 yrs
+1382,28,Female,High School,Juniour HR Generalist,2,43000.0,0-2 yrs
+1383,31,Male,Bachelor's,Junior HR Generalist,5,60000.0,3-5 yrs
+1384,29,Female,Master's,Web Developer,3,60000.0,3-5 yrs
+1385,26,Female,Bachelor's,Web Developer,1,35000.0,0-2 yrs
+1386,32,Male,Master's,Director of HR,6,95000.0,6-10 yrs
+1387,27,Female,Master's,Junior HR Generalist,2,42000.0,0-2 yrs
+1388,39,Male,Master's,Senior HR Generalist,11,100000.0,11-20 yrs
+1389,23,Female,Bachelor's,Junior HR Coordinator,1,32000.0,0-2 yrs
+1390,42,Male,PhD,Director of HR,14,130000.0,11-20 yrs
+1391,28,Male,High School,Junior Web Developer,2,43000.0,0-2 yrs
+1392,25,Female,High School,Junior HR Coordinator,1,32000.0,0-2 yrs
+1393,27,Female,Bachelor's,Junior Software Engineer,1,45000.0,0-2 yrs
+1394,33,Male,Master's,Senior Data Scientist,8,120000.0,6-10 yrs
+1395,29,Female,Bachelor's,Marketing Coordinator,3,55000.0,3-5 yrs
+1396,31,Male,Bachelor's,Junior Marketing Manager,5,70000.0,3-5 yrs
+1397,38,Female,PhD,Senior Research Scientist,12,140000.0,11-20 yrs
+1398,25,Male,High School,Junior Sales Associate,1,30000.0,0-2 yrs
+1399,32,Female,Master's,Senior Software Engineer,7,100000.0,6-10 yrs
+1400,27,Male,Bachelor's,Junior Data Analyst,2,50000.0,0-2 yrs
+1401,29,Female,Bachelor's,Junior Marketing Manager,3,55000.0,3-5 yrs
+1402,35,Male,PhD,Senior Research Scientist,10,130000.0,6-10 yrs
+1403,26,Female,Bachelor's,Junior Software Engineer,1,45000.0,0-2 yrs
+1404,28,Female,Bachelor's,Junior Software Engineer,2,48000.0,0-2 yrs
+1405,36,Male,Master's,Senior Data Scientist,9,125000.0,6-10 yrs
+1406,30,Female,Bachelor's,Marketing Coordinator,4,57000.0,3-5 yrs
+1407,32,Male,Bachelor's,Junior Marketing Manager,6,72000.0,6-10 yrs
+1408,39,Female,PhD,Senior Research Scientist,13,145000.0,11-20 yrs
+1409,26,Male,High School,Junior Sales Associate,2,31000.0,0-2 yrs
+1410,33,Female,Master's,Senior Software Engineer,8,105000.0,6-10 yrs
+1411,28,Male,Bachelor's,Junior Data Analyst,3,52000.0,3-5 yrs
+1412,30,Female,Bachelor's,Junior Marketing Manager,4,57000.0,3-5 yrs
+1413,36,Male,PhD,Senior Research Scientist,11,135000.0,11-20 yrs
+1414,27,Female,Bachelor's,Junior Software Engineer,2,48000.0,0-2 yrs
+1415,34,Male,Master's,Senior Data Scientist,9,125000.0,6-10 yrs
+1416,26,Male,Bachelor's,Senior Product Marketing Manager,5,85000.0,3-5 yrs
+1417,28,Female,Master's,Marketing Manager,7,110000.0,6-10 yrs
+1418,34,Male,PhD,Director of Marketing,12,170000.0,11-20 yrs
+1419,31,Male,Bachelor's,Sales Director,9,140000.0,6-10 yrs
+1420,24,Female,High School,Sales Associate,1,30000.0,0-2 yrs
+1421,29,Male,Bachelor's,Digital Marketing Manager,6,95000.0,6-10 yrs
+1422,27,Female,Master's,Content Marketing Manager,4,80000.0,3-5 yrs
+1423,33,Male,PhD,Sales Director,10,155000.0,6-10 yrs
+1424,21,Female,High School,Junior Sales Representative,0,25000.0,0-2 yrs
+1425,36,Male,Bachelor's,Sales Manager,11,160000.0,11-20 yrs
+1426,25,Female,Bachelor's,Marketing Manager,3,65000.0,3-5 yrs
+1427,30,Male,Master's,Financial Manager,7,120000.0,6-10 yrs
+1428,28,Female,PhD,Director of Marketing,6,105000.0,6-10 yrs
+1429,22,Female,High School,Sales Associate,0,25000.0,0-2 yrs
+1430,45,Male,Bachelor's,Financial Manager,21,250000.0,20+ yrs
+1431,31,Female,Master's,Content Marketing Manager,8,120000.0,6-10 yrs
+1432,28,Male,Bachelor's,Digital Marketing Manager,4,80000.0,3-5 yrs
+1433,29,Male,Bachelor's,Senior Product Marketing Manager,6,100000.0,6-10 yrs
+1434,35,Female,PhD,Director of Marketing,12,170000.0,11-20 yrs
+1435,27,Male,High School,Sales Representative,3,50000.0,3-5 yrs
+1436,33,Female,Bachelor's,Marketing Manager,9,140000.0,6-10 yrs
+1437,25,Female,Bachelor's,Marketing Manager,2,55000.0,0-2 yrs
+1438,29,Female,Master's,Content Marketing Manager,4,80000.0,3-5 yrs
+1439,23,Male,Bachelor's,Software Engineer,1,60000.0,0-2 yrs
+1440,39,Female,Master's,Marketing Manager,12,150000.0,11-20 yrs
+1441,28,Male,Bachelor's,Financial Analyst,4,80000.0,3-5 yrs
+1442,31,Female,PhD,Research Scientist,8,120000.0,6-10 yrs
+1443,35,Male,Bachelor's,Project Manager,10,130000.0,6-10 yrs
+1444,27,Female,Bachelor's,Graphic Designer,2,50000.0,0-2 yrs
+1445,42,Male,Master's,Senior Software Engineer,18,180000.0,11-20 yrs
+1446,29,Female,Bachelor's,Digital Marketing Specialist,3,60000.0,3-5 yrs
+1447,33,Male,Bachelor's,Marketing Manager,7,110000.0,6-10 yrs
+1448,24,Female,High School,Sales Associate,0,25000.0,0-2 yrs
+1449,30,Male,Master's,Financial Analyst,6,100000.0,6-10 yrs
+1450,26,Female,Bachelor's,Social Media Manager,3,55000.0,3-5 yrs
+1451,32,Male,PhD,Data Scientist,9,140000.0,6-10 yrs
+1452,22,Female,High School,Receptionist,0,25000.0,0-2 yrs
+1453,37,Male,Bachelor's,Product Manager,12,150000.0,11-20 yrs
+1454,38,Female,Master's,Marketing Director,14,170000.0,11-20 yrs
+1455,25,Male,Bachelor's,Junior Software Engineer,1,55000.0,0-2 yrs
+1456,29,Female,Bachelor's,Marketing Coordinator,4,65000.0,3-5 yrs
+1457,27,Male,Bachelor's,Product Designer,3,60000.0,3-5 yrs
+1458,34,Female,PhD,Research Director,10,150000.0,6-10 yrs
+1459,26,Male,Bachelor's,Marketing Analyst,2,50000.0,0-2 yrs
+1460,31,Female,Master's,Financial Manager,7,120000.0,6-10 yrs
+1461,28,Male,Bachelor's,Software Engineer,3,85000.0,3-5 yrs
+1462,36,Female,Master's,Marketing Director,11,160000.0,11-20 yrs
+1463,25,Male,Bachelor's,Financial Analyst,1,55000.0,0-2 yrs
+1464,29,Female,PhD,Data Scientist,5,100000.0,3-5 yrs
+1465,33,Male,Bachelor's,Project Manager,8,120000.0,6-10 yrs
+1466,43,Male,Master's,Senior Software Engineer,19,185000.0,11-20 yrs
+1467,30,Female,Bachelor's,Digital Marketing Specialist,4,65000.0,3-5 yrs
+1468,34,Male,Bachelor's,Marketing Manager,9,130000.0,6-10 yrs
+1469,25,Female,High School,Sales Associate,0,25000.0,0-2 yrs
+1470,31,Male,Master's,Financial Analyst,6,100000.0,6-10 yrs
+1471,27,Female,Bachelor's,Social Media Manager,3,55000.0,3-5 yrs
+1472,33,Male,PhD,Research Scientist,10,150000.0,6-10 yrs
+1473,23,Female,High School,Receptionist,0,25000.0,0-2 yrs
+1474,38,Male,Bachelor's,Product Manager,13,160000.0,11-20 yrs
+1475,39,Female,Master's,Marketing Manager,14,170000.0,11-20 yrs
+1476,26,Male,Bachelor's,Junior Software Engineer,1,55000.0,0-2 yrs
+1477,30,Female,Bachelor's,Marketing Coordinator,4,65000.0,3-5 yrs
+1478,28,Male,Bachelor's,Product Designer,3,60000.0,3-5 yrs
+1479,35,Female,PhD,Research Director,11,160000.0,11-20 yrs
+1480,27,Male,Bachelor's,Marketing Analyst,2,50000.0,0-2 yrs
+1481,32,Female,Master's,Financial Manager,8,120000.0,6-10 yrs
+1482,27,Male,Bachelor's,Software Engineer,3,85000.0,3-5 yrs
+1483,35,Female,Master's,Marketing Director,11,160000.0,11-20 yrs
+1484,24,Male,Bachelor's,Financial Analyst,1,55000.0,0-2 yrs
+1485,28,Female,PhD,Data Scientist,5,100000.0,3-5 yrs
+1486,32,Male,Bachelor's,Project Manager,8,120000.0,6-10 yrs
+1487,26,Female,Bachelor's,Graphic Designer,2,50000.0,0-2 yrs
+1488,41,Male,Master's,Senior Software Engineer,19,185000.0,11-20 yrs
+1489,29,Female,Bachelor's,Digital Marketing Specialist,4,65000.0,3-5 yrs
+1490,33,Male,Bachelor's,Marketing Manager,9,130000.0,6-10 yrs
+1491,32,Male,PhD,Research Scientist,10,150000.0,6-10 yrs
+1492,37,Male,Bachelor's,Product Manager,13,160000.0,11-20 yrs
+1493,38,Female,Master's,Marketing Manager,14,170000.0,11-20 yrs
+1494,27,Male,Bachelor's,Junior Software Engineer,1,55000.0,0-2 yrs
+1495,31,Female,Bachelor's,Marketing Coordinator,4,65000.0,3-5 yrs
+1496,29,Male,Bachelor's,Product Designer,3,60000.0,3-5 yrs
+1497,34,Female,PhD,Research Director,11,160000.0,11-20 yrs
+1498,31,Female,Master's,Financial Manager,8,120000.0,6-10 yrs
+1499,26,Female,Bachelor's,Social Media Man,7,100000.0,6-10 yrs
+1500,31,Male,Bachelor's,Software Engineer,7,120000.0,6-10 yrs
+1501,33,Male,Master's,Marketing Manager,9,130000.0,6-10 yrs
+1502,29,Female,High School,Customer Service Representative,3,35000.0,3-5 yrs
+1503,36,Male,PhD,Research Scientist,13,160000.0,11-20 yrs
+1504,27,Female,Bachelor's,Marketing Coordinator,2,50000.0,0-2 yrs
+1505,31,Male,Bachelor's,Project Manager,6,100000.0,6-10 yrs
+1506,28,Female,Master's,Financial Analyst,4,80000.0,3-5 yrs
+1507,25,Male,Bachelor's,Software Engineer,1,60000.0,0-2 yrs
+1508,30,Female,Bachelor's,Sales Manager,5,90000.0,3-5 yrs
+1509,34,Male,PhD,Research Director,11,170000.0,11-20 yrs
+1510,28,Female,Bachelor's,Marketing Analyst,3,60000.0,3-5 yrs
+1511,32,Male,Bachelor's,Product Manager,7,120000.0,6-10 yrs
+1512,24,Female,High School,Receptionist,0,25000.0,0-2 yrs
+1513,37,Male,Master's,Marketing Director,14,180000.0,11-20 yrs
+1514,39,Female,Bachelor's,Financial Manager,16,200000.0,11-20 yrs
+1515,26,Male,Bachelor's,Product Designer,2,50000.0,0-2 yrs
+1516,31,Female,PhD,Data Scientist,8,140000.0,6-10 yrs
+1517,29,Male,Bachelor's,Marketing Analyst,4,70000.0,3-5 yrs
+1518,33,Female,Master's,Marketing Manager,9,130000.0,6-10 yrs
+1519,27,Male,Bachelor's,Software Engineer,3,80000.0,3-5 yrs
+1520,36,Female,PhD,Research Scientist,12,160000.0,11-20 yrs
+1521,25,Male,Bachelor's,Product Manager,1,55000.0,0-2 yrs
+1522,30,Female,Bachelor's,Marketing Coordinator,5,85000.0,3-5 yrs
+1523,28,Female,Bachelor's,Marketing Coordinator,3,60000.0,3-5 yrs
+1524,33,Male,Master's,Software Engineer,9,120000.0,6-10 yrs
+1525,26,Female,Bachelor's,Graphic Designer,1,45000.0,0-2 yrs
+1526,29,Male,Bachelor's,Product Manager,5,80000.0,3-5 yrs
+1527,35,Female,PhD,Research Scientist,11,150000.0,11-20 yrs
+1528,27,Male,Bachelor's,Software Engineer,2,65000.0,0-2 yrs
+1529,31,Female,Bachelor's,Marketing Manager,7,100000.0,6-10 yrs
+1530,28,Male,Master's,Financial Analyst,4,90000.0,3-5 yrs
+1531,24,Female,Bachelor's,Marketing Analyst,0,40000.0,0-2 yrs
+1532,30,Male,Bachelor's,Project Manager,6,110000.0,6-10 yrs
+1533,34,Female,PhD,Research Director,12,170000.0,11-20 yrs
+1534,27,Male,Bachelor's,Software Engineer,3,75000.0,3-5 yrs
+1535,33,Female,Master's,Marketing Manager,8,120000.0,6-10 yrs
+1536,25,Female,High School,Customer Service Representative,1,30000.0,0-2 yrs
+1537,36,Male,PhD,Research Scientist,13,180000.0,11-20 yrs
+1538,39,Female,Bachelor's,Financial Manager,15,200000.0,11-20 yrs
+1539,26,Male,Bachelor's,Product Designer,1,50000.0,0-2 yrs
+1540,28,Male,Bachelor's,Marketing Analyst,3,65000.0,3-5 yrs
+1541,32,Female,Bachelor's,Product Manager,7,110000.0,6-10 yrs
+1542,24,Male,High School,Delivery Driver,0,28000.0,0-2 yrs
+1543,37,Male,Master's,Marketing Director,14,190000.0,11-20 yrs
+1544,39,Female,Bachelor's,Financial Manager,16,210000.0,11-20 yrs
+1545,26,Male,Bachelor's,Product Designer,2,55000.0,0-2 yrs
+1546,36,Female,PhD,Research Scientist,12,170000.0,11-20 yrs
+1547,25,Male,Bachelor's,Product Manager,1,60000.0,0-2 yrs
+1548,30,Female,Bachelor's,Marketing Coordinator,5,90000.0,3-5 yrs
+1549,34,Male,PhD,Research Director,11,160000.0,11-20 yrs
+1550,29,Male,Bachelor's,Software Engineer,3,75000.0,3-5 yrs
+1551,32,Female,Master's,Marketing Manager,8,120000.0,6-10 yrs
+1552,27,Male,Bachelor's,Product Manager,2,65000.0,0-2 yrs
+1553,30,Female,PhD,Data Scientist,6,100000.0,6-10 yrs
+1554,36,Male,Bachelor's,Financial Analyst,11,150000.0,11-20 yrs
+1555,27,Male,PhD,Marketing Coordinator,7,120000.0,6-10 yrs
+1556,33,Male,Master's,Software Engineer,8,120000.0,6-10 yrs
+1557,27,Female,Bachelor's,Product Manager,2,65000.0,0-2 yrs
+1558,30,Male,PhD,Data Scientist,6,100000.0,6-10 yrs
+1559,36,Female,Bachelor's,Financial Analyst,11,150000.0,11-20 yrs
+1560,29,Male,Bachelor's,Marketing Analyst,3,65000.0,3-5 yrs
+1561,32,Female,Master's,Software Engineer,9,120000.0,6-10 yrs
+1562,26,Male,Bachelor's,Graphic Designer,1,45000.0,0-2 yrs
+1563,29,Female,Bachelor's,Product Manager,5,80000.0,3-5 yrs
+1564,35,Male,PhD,Research Scientist,11,150000.0,11-20 yrs
+1565,34,Male,Master's,Software Engineer,9,125000.0,6-10 yrs
+1566,28,Female,Bachelor's,Product Manager,3,70000.0,3-5 yrs
+1567,31,Male,PhD,Data Scientist,7,110000.0,6-10 yrs
+1568,37,Female,Bachelor's,Financial Analyst,12,160000.0,11-20 yrs
+1569,30,Male,Bachelor's,Marketing Analyst,4,75000.0,3-5 yrs
+1570,33,Female,Master's,Software Engineer,8,120000.0,6-10 yrs
+1571,27,Male,Bachelor's,Graphic Designer,2,50000.0,0-2 yrs
+1572,30,Female,Bachelor's,Product Manager,5,85000.0,3-5 yrs
+1573,36,Male,PhD,Research Scientist,11,155000.0,11-20 yrs
+1574,28,Male,Bachelor's,Software Engineer,3,70000.0,3-5 yrs
+1575,32,Female,Bachelor's,Marketing Manager,8,115000.0,6-10 yrs
+1576,29,Male,Master's,Financial Analyst,5,95000.0,3-5 yrs
+1577,25,Female,Bachelor's,Marketing Analyst,0,40000.0,0-2 yrs
+1578,31,Male,Bachelor's,Project Manager,6,115000.0,6-10 yrs
+1579,35,Female,PhD,Research Director,12,175000.0,11-20 yrs
+1580,33,Female,Master's,Marketing Manager,9,135000.0,6-10 yrs
+1581,29,Male,Bachelor's,Marketing Analyst,4,75000.0,3-5 yrs
+1582,36,Male,PhD,Research Scientist,13,185000.0,11-20 yrs
+1583,40,Female,Bachelor's,Financial Manager,15,210000.0,11-20 yrs
+1584,27,Male,Bachelor's,Product Designer,1,45000.0,0-2 yrs
+1585,32,Female,PhD,Data Scientist,9,145000.0,6-10 yrs
+1586,28,Male,Bachelor's,Marketing Analyst,3,70000.0,3-5 yrs
+1587,32,Female,Bachelor's,Product Manager,7,120000.0,6-10 yrs
+1588,38,Male,Master's,Marketing Director,14,195000.0,11-20 yrs
+1589,40,Female,Bachelor's,Financial Manager,16,215000.0,11-20 yrs
+1590,27,Male,Bachelor's,Product Designer,2,55000.0,0-2 yrs
+1591,36,Female,PhD,Research Scientist,13,185000.0,11-20 yrs
+1592,30,Female,Bachelor's,Marketing Coordinator,5,95000.0,3-5 yrs
+1593,34,Male,PhD,Research Director,12,170000.0,11-20 yrs
+1594,28,Female,Bachelor's,Marketing Analyst,3,65000.0,3-5 yrs
+1595,26,Female,Master's,Software Engineer,2,75000.0,0-2 yrs
+1596,39,Male,PhD,Research Scientist,14,185000.0,11-20 yrs
+1597,32,Female,Bachelor's,Marketing Manager,7,120000.0,6-10 yrs
+1598,28,Male,Bachelor's,Graphic Designer,3,60000.0,3-5 yrs
+1599,35,Female,Master's,Data Scientist,10,145000.0,6-10 yrs
+1600,33,Female,Master's,Product Manager,8,135000.0,6-10 yrs
+1601,27,Male,Bachelor's,Software Engineer,2,70000.0,0-2 yrs
+1602,36,Female,PhD,Research Director,12,175000.0,11-20 yrs
+1603,29,Male,Bachelor's,Sales Associate,2,45000.0,0-2 yrs
+1604,45,Female,Master's,Sales Manager,8,80000.0,6-10 yrs
+1605,37,Male,PhD,Marketing Manager,7,90000.0,6-10 yrs
+1606,23,Female,High School,Sales Executive,1,35000.0,0-2 yrs
+1607,41,Male,Bachelor's,Financial Manager,12,120000.0,11-20 yrs
+1608,26,Female,Bachelor's,Digital Marketing Manager,4,60000.0,3-5 yrs
+1609,33,Male,Master's,Content Marketing Manager,5,70000.0,3-5 yrs
+1610,28,Female,High School,Sales Representative,3,40000.0,3-5 yrs
+1611,50,Male,PhD,Senior Product Marketing Manager,15,150000.0,11-20 yrs
+1612,35,Female,Bachelor's,Junior Sales Representative,2,35000.0,0-2 yrs
+1613,42,Male,Master's,Director of Marketing,13,130000.0,11-20 yrs
+1614,27,Female,Bachelor's,Sales Associate,1,35000.0,0-2 yrs
+1615,48,Male,PhD,Sales Director,18,180000.0,11-20 yrs
+1616,31,Female,High School,Financial Manager,4,60000.0,3-5 yrs
+1617,36,Male,Bachelor's,Sales Manager,6,75000.0,6-10 yrs
+1618,25,Female,Master's,Digital Marketing Manager,3,50000.0,3-5 yrs
+1619,39,Male,PhD,Marketing Manager,10,100000.0,6-10 yrs
+1620,30,Female,High School,Sales Executive,2,40000.0,0-2 yrs
+1621,44,Male,Bachelor's,Content Marketing Manager,11,110000.0,11-20 yrs
+1622,29,Female,Master's,Sales Representative,4,55000.0,3-5 yrs
+1623,47,Male,PhD,Senior Product Marketing Manager,17,170000.0,11-20 yrs
+1624,32,Female,Bachelor's,Junior Sales Representative,3,40000.0,3-5 yrs
+1625,38,Male,Master's,Director of Marketing,9,95000.0,6-10 yrs
+1626,24,Female,High School,Sales Associate,1,35000.0,0-2 yrs
+1627,40,Male,PhD,Sales Director,14,140000.0,11-20 yrs
+1628,34,Female,Bachelor's,Financial Manager,5,70000.0,3-5 yrs
+1629,26,Male,Master's,Digital Marketing Manager,3,50000.0,3-5 yrs
+1630,31,Female,PhD,Marketing Manager,6,75000.0,6-10 yrs
+1631,27,Male,High School,Sales Executive,2,40000.0,0-2 yrs
+1632,43,Female,Bachelor's,Content Marketing Manager,12,120000.0,11-20 yrs
+1633,28,Male,Master's,Sales Representative,2,40000.0,0-2 yrs
+1634,46,Female,PhD,Senior Product Marketing Manager,16,160000.0,11-20 yrs
+1635,33,Male,Bachelor's,Junior Sales Representative,4,55000.0,3-5 yrs
+1636,39,Female,Master's,Director of Marketing,10,100000.0,6-10 yrs
+1637,25,Male,High School,Sales Associate,1,35000.0,0-2 yrs
+1638,41,Female,Bachelor's,Sales Manager,8,80000.0,6-10 yrs
+1639,35,Male,PhD,Marketing Manager,7,90000.0,6-10 yrs
+1640,23,Female,Bachelor's,Sales Executive,1,35000.0,0-2 yrs
+1641,42,Male,Master's,Financial Manager,13,130000.0,11-20 yrs
+1642,32,Male,Master's,Content Marketing Manager,5,70000.0,3-5 yrs
+1643,27,Female,High School,Sales Representative,3,40000.0,3-5 yrs
+1644,36,Female,Bachelor's,Junior Sales Representative,2,35000.0,0-2 yrs
+1645,48,Male,Master's,Director of Marketing,18,180000.0,11-20 yrs
+1646,31,Female,High School,Sales Associate,2,40000.0,0-2 yrs
+1647,29,Male,Bachelor's,Sales Director,6,75000.0,6-10 yrs
+1648,45,Female,PhD,Financial Manager,12,120000.0,11-20 yrs
+1649,25,Male,Master's,Digital Marketing Manager,3,50000.0,3-5 yrs
+1650,37,Female,Bachelor's,Marketing Manager,7,90000.0,6-10 yrs
+1651,23,Male,High School,Sales Executive,1,35000.0,0-2 yrs
+1652,41,Female,Bachelor's,Content Marketing Manager,11,110000.0,11-20 yrs
+1653,26,Male,Master's,Sales Representative,3,45000.0,3-5 yrs
+1654,33,Female,PhD,Senior Product Marketing Manager,5,70000.0,3-5 yrs
+1655,28,Male,Bachelor's,Junior Sales Representative,1,30000.0,0-2 yrs
+1656,42,Female,Master's,Director of Marketing,13,130000.0,11-20 yrs
+1657,27,Male,High School,Financial Manager,4,60000.0,3-5 yrs
+1658,50,Female,Bachelor's,Sales Manager,15,150000.0,11-20 yrs
+1659,35,Male,PhD,Marketing Manager,8,80000.0,6-10 yrs
+1660,24,Female,Bachelor's,Sales Executive,1,35000.0,0-2 yrs
+1661,46,Male,Master's,Content Marketing Manager,16,160000.0,11-20 yrs
+1662,29,Female,High School,Sales Representative,2,40000.0,0-2 yrs
+1663,31,Female,Bachelor's,Junior Sales Representative,3,40000.0,3-5 yrs
+1664,25,Female,High School,Sales Associate,1,35000.0,0-2 yrs
+1665,39,Male,Bachelor's,Sales Director,10,100000.0,6-10 yrs
+1666,33,Female,PhD,Financial Manager,5,70000.0,3-5 yrs
+1667,27,Male,Master's,Digital Marketing Manager,3,50000.0,3-5 yrs
+1668,43,Female,Bachelor's,Marketing Manager,12,120000.0,11-20 yrs
+1669,28,Male,High School,Sales Executive,2,40000.0,0-2 yrs
+1670,31,Male,Bachelor's,Sales Associate,3,50000.0,3-5 yrs
+1671,46,Female,Master's,Marketing Manager,14,140000.0,11-20 yrs
+1672,38,Female,Bachelor's,Financial Manager,10,100000.0,6-10 yrs
+1673,24,Male,PhD,Digital Marketing Manager,1,30000.0,0-2 yrs
+1674,33,Female,Master's,Content Marketing Manager,6,75000.0,6-10 yrs
+1675,29,Male,High School,Sales Representative,2,40000.0,0-2 yrs
+1676,50,Female,Bachelor's,Sales Manager,18,180000.0,11-20 yrs
+1677,35,Male,PhD,Senior Product Marketing Manager,8,80000.0,6-10 yrs
+1678,41,Male,Master's,Director of Marketing,12,120000.0,11-20 yrs
+1679,26,Female,High School,Financial Manager,3,45000.0,3-5 yrs
+1680,32,Male,Bachelor's,Sales Director,7,90000.0,6-10 yrs
+1681,27,Female,PhD,Marketing Manager,4,55000.0,3-5 yrs
+1682,43,Male,Master's,Content Marketing Manager,16,160000.0,11-20 yrs
+1683,28,Female,Bachelor's,Sales Representative,2,40000.0,0-2 yrs
+1684,31,Female,High School,Junior Sales Representative,3,40000.0,3-5 yrs
+1685,39,Male,Bachelor's,Sales Manager,11,110000.0,11-20 yrs
+1686,33,Female,PhD,Financial Manager,6,75000.0,6-10 yrs
+1687,50,Female,Master's,Content Marketing Manager,15,150000.0,11-20 yrs
+1688,36,Male,Bachelor's,Sales Representative,5,70000.0,3-5 yrs
+1689,48,Female,PhD,Senior Product Marketing Manager,19,190000.0,11-20 yrs
+1690,31,Male,High School,Junior Sales Representative,3,40000.0,3-5 yrs
+1691,29,Female,Bachelor's,Sales Director,6,75000.0,6-10 yrs
+1692,45,Male,Master's,Director of Marketing,14,140000.0,11-20 yrs
+1693,35,Female,PhD,Marketing Manager,8,80000.0,6-10 yrs
+1694,23,Male,Bachelor's,Sales Executive,1,35000.0,0-2 yrs
+1695,42,Female,Master's,Sales Manager,13,130000.0,11-20 yrs
+1696,26,Male,High School,Digital Marketing Manager,2,40000.0,0-2 yrs
+1697,32,Female,Bachelor's,Content Marketing Manager,7,90000.0,6-10 yrs
+1698,27,Male,PhD,Sales Representative,4,55000.0,3-5 yrs
+1699,50,Female,Master's,Senior Product Marketing Manager,18,180000.0,11-20 yrs
+1700,36,Male,Bachelor's,Junior Sales Representative,3,45000.0,3-5 yrs
+1701,48,Female,PhD,Director of Marketing,19,190000.0,11-20 yrs
+1702,31,Male,High School,Sales Associate,3,50000.0,3-5 yrs
+1703,29,Female,Bachelor's,Financial Manager,4,55000.0,3-5 yrs
+1704,45,Male,Master's,Marketing Manager,13,130000.0,11-20 yrs
+1705,25,Female,High School,Sales Executive,1,35000.0,0-2 yrs
+1706,41,Male,Bachelor's,Content Marketing Manager,12,120000.0,11-20 yrs
+1707,35,Female,PhD,Senior Product Marketing Manager,9,95000.0,6-10 yrs
+1708,23,Male,Bachelor's,Sales Representative,1,35000.0,0-2 yrs
+1709,42,Female,Master's,Digital Marketing Manager,14,140000.0,11-20 yrs
+1710,26,Male,High School,Sales Manager,2,40000.0,0-2 yrs
+1711,32,Female,Bachelor's,Director of Marketing,8,80000.0,6-10 yrs
+1712,27,Male,PhD,Marketing Manager,4,55000.0,3-5 yrs
+1713,50,Female,Master's,Content Marketing Manager,19,190000.0,11-20 yrs
+1714,36,Male,Bachelor's,Sales Director,6,75000.0,6-10 yrs
+1715,48,Female,PhD,Senior Product Marketing Manager,17,170000.0,11-20 yrs
+1716,37,Male,Master's,Marketing Manager,11,110000.0,11-20 yrs
+1717,26,Female,Bachelor's,Sales Representative,2,40000.0,0-2 yrs
+1718,42,Male,PhD,Content Marketing Manager,15,150000.0,11-20 yrs
+1719,33,Female,High School,Sales Executive,4,55000.0,3-5 yrs
+1720,29,Male,Bachelor's,Sales Manager,5,70000.0,3-5 yrs
+1721,45,Female,Master's,Director of Marketing,16,160000.0,11-20 yrs
+1722,24,Male,High School,Sales Associate,1,35000.0,0-2 yrs
+1723,39,Female,Bachelor's,Financial Manager,10,100000.0,6-10 yrs
+1724,31,Male,PhD,Senior Product Marketing Manager,7,90000.0,6-10 yrs
+1725,27,Female,Master's,Digital Marketing Manager,3,50000.0,3-5 yrs
+1726,43,Male,Bachelor's,Content Marketing Manager,14,140000.0,11-20 yrs
+1727,28,Female,High School,Sales Representative,2,40000.0,0-2 yrs
+1728,50,Male,PhD,Marketing Manager,18,180000.0,11-20 yrs
+1729,35,Female,Bachelor's,Sales Executive,7,90000.0,6-10 yrs
+1730,23,Male,Bachelor's,Sales Manager,1,35000.0,0-2 yrs
+1731,41,Female,Master's,Director of Marketing,12,120000.0,11-20 yrs
+1732,26,Male,High School,Financial Manager,3,45000.0,3-5 yrs
+1733,32,Female,Bachelor's,Sales Director,8,80000.0,6-10 yrs
+1734,50,Female,Master's,Content Marketing Manager,18,180000.0,11-20 yrs
+1735,36,Male,Bachelor's,Sales Representative,6,75000.0,6-10 yrs
+1736,29,Female,Bachelor's,Sales Director,5,70000.0,3-5 yrs
+1737,45,Male,Master's,Director of Marketing,15,150000.0,11-20 yrs
+1738,38,Male,Master's,Marketing Manager,12,120000.0,11-20 yrs
+1739,27,Female,Bachelor's,Sales Representative,3,45000.0,3-5 yrs
+1740,43,Male,PhD,Content Marketing Manager,16,160000.0,11-20 yrs
+1741,34,Female,High School,Sales Executive,5,70000.0,3-5 yrs
+1742,30,Male,Bachelor's,Sales Manager,6,75000.0,6-10 yrs
+1743,46,Female,Master's,Director of Marketing,17,170000.0,11-20 yrs
+1744,40,Female,Bachelor's,Financial Manager,11,110000.0,11-20 yrs
+1745,32,Male,PhD,Senior Product Marketing Manager,8,80000.0,6-10 yrs
+1746,28,Female,Master's,Digital Marketing Manager,4,55000.0,3-5 yrs
+1747,44,Male,Bachelor's,Content Marketing Manager,15,150000.0,11-20 yrs
+1748,51,Male,PhD,Marketing Manager,19,190000.0,11-20 yrs
+1749,36,Female,Bachelor's,Sales Executive,8,80000.0,6-10 yrs
+1750,24,Male,Bachelor's,Sales Manager,1,35000.0,0-2 yrs
+1751,27,Male,High School,Financial Manager,3,45000.0,3-5 yrs
+1752,33,Female,Bachelor's,Sales Director,7,90000.0,6-10 yrs
+1753,28,Male,PhD,Marketing Manager,4,55000.0,3-5 yrs
+1754,51,Female,Master's,Content Marketing Manager,19,190000.0,11-20 yrs
+1755,37,Male,Bachelor's,Sales Representative,7,90000.0,6-10 yrs
+1756,49,Female,PhD,Senior Product Marketing Manager,20,200000.0,11-20 yrs
+1757,32,Male,High School,Junior Sales Representative,3,40000.0,3-5 yrs
+1758,30,Female,Bachelor's,Sales Director,5,70000.0,3-5 yrs
+1759,46,Male,Master's,Director of Marketing,16,160000.0,11-20 yrs
+1760,26,Female,High School,Sales Associate,1,35000.0,0-2 yrs
+1761,42,Male,Bachelor's,Financial Manager,13,130000.0,11-20 yrs
+1762,36,Female,PhD,Marketing Manager,9,95000.0,6-10 yrs
+1763,24,Male,Bachelor's,Sales Executive,1,35000.0,0-2 yrs
+1764,43,Female,Master's,Sales Manager,14,140000.0,11-20 yrs
+1765,27,Male,High School,Digital Marketing Manager,2,40000.0,0-2 yrs
+1766,33,Female,Bachelor's,Content Marketing Manager,7,90000.0,6-10 yrs
+1767,28,Male,PhD,Sales Representative,4,55000.0,3-5 yrs
+1768,51,Female,Master's,Senior Product Marketing Manager,19,190000.0,11-20 yrs
+1769,37,Male,Bachelor's,Junior Sales Representative,6,75000.0,6-10 yrs
+1770,49,Female,PhD,Director of Marketing,20,200000.0,11-20 yrs
+1771,32,Male,High School,Sales Associate,3,50000.0,3-5 yrs
+1772,30,Female,Bachelor's,Financial Manager,4,55000.0,3-5 yrs
+1773,46,Male,Master's,Marketing Manager,14,140000.0,11-20 yrs
+1774,26,Female,High School,Sales Executive,1,35000.0,0-2 yrs
+1775,42,Male,Bachelor's,Content Marketing Manager,13,130000.0,11-20 yrs
+1776,36,Female,PhD,Senior Product Marketing Manager,10,100000.0,6-10 yrs
+1777,24,Male,Bachelor's,Sales Representative,1,35000.0,0-2 yrs
+1778,43,Female,Master's,Digital Marketing Manager,15,150000.0,11-20 yrs
+1779,27,Male,High School,Sales Manager,2,40000.0,0-2 yrs
+1780,33,Female,Bachelor's,Director of Marketing,8,80000.0,6-10 yrs
+1781,37,Male,Bachelor's,Sales Director,7,90000.0,6-10 yrs
+1782,30,Female,Bachelor's,Sales Manager,5,70000.0,3-5 yrs
+1784,44,Male,Bachelor's,software engineer,9,64000.0,6-10 yrs
+1785,32,Male,High School,software engineer,6,60000.0,6-10 yrs
+1786,28,Female,High School,software engineer,7,60000.0,6-10 yrs
+1787,30,Female,High School,software engineer,7,60000.0,6-10 yrs
